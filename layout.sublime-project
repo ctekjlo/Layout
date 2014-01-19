@@ -1,0 +1,20 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": ".",
+			"file_exclude_patterns": [
+				"*.sublime-project",
+				"*.sublime-workspace",
+				".bowerrc",
+				"README"
+			],
+			"folder_exclude_patterns": [
+				"assets/bower_components",
+				"assets/css",
+				"assets/js/libs"
+			]
+		}
+	]
+}

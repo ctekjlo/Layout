@@ -1,0 +1,22 @@
+{
+  "name": "Layout",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ctekjlo/Layout",
+  "authors": [
+    "Afonin Artur <ctekjlo@gmail.com>"
+  ],
+  "description": "Simple Layout",
+  "main": "assets/css/styles.css",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-css": "~2.1.3"
+  }
+}

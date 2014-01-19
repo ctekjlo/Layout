@@ -1,0 +1,675 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"if",
+				"if	if …"
+			],
+			[
+				"class",
+				"class	class"
+			],
+			[
+				"foreach",
+				"foreach	foreach"
+			],
+			[
+				"pf",
+				"pf	index"
+			],
+			[
+				"file",
+				"filename  (variable)"
+			],
+			[
+				"real",
+				"realpath  (function)"
+			],
+			[
+				"va",
+				"values  (variable)"
+			],
+			[
+				"me",
+				"memory_get_usage"
+			],
+			[
+				"con",
+				"constant"
+			],
+			[
+				"cle",
+				"clear"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"mb",
+				"mb_stristr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/PHPLint.sublime-build",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"packeage",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"baraket",
+				"BracketHighlighter: Swap Brackets"
+			],
+			[
+				"pack list",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"",
+				"View: Toggle Tabs"
+			],
+			[
+				"tas",
+				"Tasks: New document"
+			],
+			[
+				"gist",
+				"Gist: Open Gist"
+			],
+			[
+				"syhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"synhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Function"
+			],
+			[
+				"syn java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"packlist",
+				"Package Control: List Packages"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"gi",
+				"Gist: Insert Gist"
+			],
+			[
+				"sni",
+				"Snippet: html"
+			],
+			[
+				"gis",
+				"Gist: Open Gist"
+			],
+			[
+				"pack di",
+				"Package Control: Disable Package"
+			],
+			[
+				"php",
+				"PHPUnit: Run"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack e",
+				"Package Control: Enable Package"
+			],
+			[
+				"snipp",
+				"Snippet: html"
+			],
+			[
+				"giin",
+				"Gist: Insert Gist"
+			],
+			[
+				"pac li",
+				"Package Control: List Packages"
+			],
+			[
+				"pa di",
+				"Package Control: Disable Package"
+			],
+			[
+				"gice",
+				"Gist: Create Private Gist"
+			],
+			[
+				"gis in",
+				"Gist: Insert Gist"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"t",
+				"Theme Tweaker: Toggle Tweak Mode"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 588.0
+	},
+	"console":
+	{
+		"height": 278.0,
+		"history":
+		[
+			"claer",
+			"git status",
+			"git commit -am=\"first\"",
+			"git add --all",
+			"git status",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/arturafonin/Desktop/project/README",
+		"/Users/arturafonin/Desktop/project/init.sh",
+		"/Users/arturafonin/Desktop/project/assets/scss/styles.scss",
+		"/Users/arturafonin/Desktop/project/.bowerrc",
+		"/Users/arturafonin/Desktop/project/assets/css/styles.css",
+		"/Users/arturafonin/Desktop/project/bower_components/normalize-css/normalize.css",
+		"/Users/arturafonin/Sites/test.dev.ru/css.html",
+		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/clss.sublime-snippet",
+		"/Users/arturafonin/Sites/test.dev.ru/cls.php",
+		"/Users/arturafonin/Sites/test.dev.ru/HTML.php",
+		"/Users/arturafonin/Sites/test.dev.ru/test.php",
+		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/ifcount.sublime-snippet",
+		"/Users/arturafonin/Sites/test.dev.ru/class.php",
+		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/ifissetcount.sublime-snippet",
+		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/f.sublime-snippet",
+		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/cls.sublime-snippet",
+		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/SendToPasteBin.sublime-settings",
+		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/if 2.sublime-snippet",
+		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/PHPLint.sublime-build",
+		"/Users/arturafonin/Sites/test.dev.ru/cd",
+		"/Users/arturafonin/Sites/test.dev.ru/composer.json",
+		"/Users/arturafonin/Sites/test.dev.ru/vendor/phpunit/php-code-coverage/Tests/_files/CoveragePrivateTest.php",
+		"/Users/arturafonin/Sites/test.dev.ru/!!/!/.sass-cache/5cf39c70020ba818d50934168d8e437f4fb46dd9/_opacity.scssc",
+		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/PlainTasks/Default (OSX).sublime-keymap",
+		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/PlainTasks/messages/Tutorial.todo",
+		"/Users/arturafonin/Sites/test.dev.ru/ajax/index.html",
+		"/Users/arturafonin/Sites/test.dev.ru/work.TODO",
+		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Gist.sublime-settings",
+		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/JavaScript/function",
+		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/html5.sublime-snippet",
+		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/!html.sublime-snippet",
+		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/if.sublime-snippet",
+		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/int.sublime-snippet",
+		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/foreach.sublime-snippet",
+		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/ifisset.sublime-snippet",
+		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/if!isset.sublime-snippet",
+		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/psf.sublime-snippet",
+		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/prosf.sublime-snippet",
+		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/prof.sublime-snippet",
+		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/prisf.sublime-snippet",
+		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/prif.sublime-snippet",
+		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/pf.sublime-snippet",
+		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/prf.sublime-snippet",
+		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Index/000043.sst",
+		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/HTML/index.html",
+		"/etc/hosts",
+		"/Users/arturafonin/Sites/test.dev.ru/Input.php",
+		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/SimplePHPUnit.sublime-settings",
+		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/SimplePHPUnit/SimplePHPUnit.sublime-settings",
+		"/Users/arturafonin/Sites/test.dev.ru/css/style.css",
+		"/Users/arturafonin/Sites/test.dev.ru/index.html",
+		"/Users/arturafonin/Sites/test.dev.ru/script.js",
+		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/arturafonin/Sites/test.dev.ru/i.html",
+		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/Emmet/Default (OSX).sublime-keymap",
+		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/Gist/Gist.sublime-settings",
+		"/Users/arturafonin/Sites/test.dev.ru/autoload.php",
+		"/Users/arturafonin/Sites/test.dev.ru/index.php",
+		"/Users/arturafonin/Sites/test.dev.ru/data.json",
+		"/Users/arturafonin/Sites/test.dev.ru/assets/haml/index.haml",
+		"/Users/arturafonin/Sites/parser.dev.ru/cache/b6e51ae3946a1f04d64250465ed6da9a.cache",
+		"/Users/arturafonin/Sites/parser.dev.ru/cache/5c30a0cc8a44967a7b283a353546e205.cache",
+		"/Users/arturafonin/Sites/parser.dev.ru/www.sportvokrug.ru.php",
+		"/Users/arturafonin/Sites/parser.dev.ru/www.kartasporta.ru.php",
+		"/Users/arturafonin/Sites/parser.dev.ru/Libs/classes/parse.php",
+		"/Users/arturafonin/Sites/parser.dev.ru/json.php",
+		"/Users/arturafonin/.extra",
+		"/Users/arturafonin/.bash_profile",
+		"/Users/arturafonin/.exports",
+		"/usr/local/lib/perl5/site_perl/Git/SVN/Memoize/YAML.pm",
+		"/usr/local/lib/perl5/site_perl/Git/SVN/Editor.pm",
+		"/Volumes/Git 1.8.4.2 Snow Leopard Intel Universal/setup git PATH for non-terminal programs.sh",
+		"/Users/arturafonin/Sites/parser.dev.ru/data/json/!/abakan.kartasporta.ru.json",
+		"/Users/arturafonin/Sites/parser.dev.ru/.gitignore",
+		"/Users/arturafonin/.functions",
+		"/Users/arturafonin/.brew",
+		"/Users/arturafonin/.inputrc",
+		"/Users/arturafonin/Sites/parser.dev.ru/cache/67458689a6ab17f8a5e0fffa2734f792.cache",
+		"/Users/arturafonin/Sites/parser.dev.ru/cache/b12ef166ed72aa390d1c2c48bdbd83ce.cache",
+		"/Users/arturafonin/Sites/parser.dev.ru/Libs/include/header.php",
+		"/Users/arturafonin/Sites/parser.dev.ru/Libs/classes/Helper/HTML.php",
+		"/Users/arturafonin/Sites/parser.dev.ru/Libs/classes/Helper/Cache.php",
+		"/Users/arturafonin/Sites/converter.dev.ru/classes/Helper/Kohana_Arr.php",
+		"/Users/arturafonin/Sites/parser.dev.ru/Libs/classes/Helper/Arr.php",
+		"/Users/arturafonin/Sites/parser.dev.ru/Libs/classes/Helper/curl.php",
+		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/Alignment/Default (OSX).sublime-keymap",
+		"/Users/arturafonin/Sites/parser.dev.ru/cache/66177282c7f585864b6bf0c2117d303f.cache",
+		"/Users/arturafonin/Sites/parser.dev.ru/cache/fdef5fbbc59e1c83db8116738810dc5c.cache",
+		"/Users/arturafonin/Sites/parser.dev.ru/cache/0c7d9b3b4cb6b45516380c5563eef0bc.cache",
+		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/theme_tweaker.sublime-settings",
+		"/Users/arturafonin/Sites/parser.dev.ru/Libs/classes/Helper/Image.php",
+		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/ThemeTweaker/theme_tweaker.sublime-settings",
+		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/PHP Companion/Default.sublime-keymap",
+		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/PHP Companion/PHP Companion.sublime-settings",
+		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/arturafonin/Sites/parser.dev.ru/vendor/ezyang/htmlpurifier/test-settings.sample.php",
+		"/Users/arturafonin/Sites/parser.dev.ru/parser.sublime-project",
+		"/Users/arturafonin/Sites/parser.dev.ru/parser.sublime-workspace",
+		"/Users/arturafonin/Sites/parser.dev.ru/versions/parser-0.0.1.zip",
+		"/Users/arturafonin/Sites/parser.dev.ru/json-to-csv.php",
+		"/Users/arturafonin/Sites/parser.dev.ru/file.csv",
+		"/Users/arturafonin/Sites/parser.dev.ru/cache/c6d3eb194f6e320b9926270e604d8817.cache",
+		"/Users/arturafonin/Sites/parser.dev.ru/cookie.txt",
+		"/Users/arturafonin/Sites/parser.dev.ru/parse.php",
+		"/Users/arturafonin/Sites/parser.dev.ru/data/images/json/moscow.json",
+		"/Users/arturafonin/Sites/parser.dev.ru/cache/cb38b0381f7546e20fd09731efa3cb5e.cache",
+		"/Users/arturafonin/Sites/roomble.com.dev.ru/roomble.sublime-project",
+		"/Applications/MAMP/htdocs/roomble.com.layout.dev.ru/sass/assets/snippets/functions.scss",
+		"/Applications/MAMP/htdocs/roomble.com.layout.dev.ru/sass/_styles.scss",
+		"/Applications/MAMP/htdocs/roomble.com.layout.dev.ru/haml/position.haml",
+		"/Applications/MAMP/htdocs/roomble.com.layout.dev.ru/sass/styles/_publication.scss",
+		"/Applications/MAMP/htdocs/roomble.com.layout.dev.ru/haml/publication.haml",
+		"/Applications/MAMP/htdocs/parser-sport.dev.ru/data/json/abakan.kartasporta.ru.json",
+		"/Applications/MAMP/htdocs/roomble.com.layout.dev.ru/haml/index.haml",
+		"/Applications/MAMP/htdocs/roomble.com.layout.dev.ru/sass/stylesheets/_header.scss",
+		"/Applications/MAMP/htdocs/roomble.com.layout.dev.ru/sass/foundation/_variables.scss",
+		"/Applications/MAMP/htdocs/roomble.com.layout.dev.ru/scripts/main.js",
+		"/Applications/MAMP/htdocs/roomble.com.layout.dev.ru/roomble.sublime-project",
+		"/Applications/MAMP/htdocs/roomble.com.layout.dev.ru/sass/vendor/slider.scss",
+		"/Users/arturafonin/Sites/roomble.com.dev.ru/scripts/app.js",
+		"/Users/arturafonin/Sites/roomble.com.dev.ru/sass/_styles.scss",
+		"/Users/arturafonin/Sites/roomble.com.dev.ru/haml/index.haml",
+		"/Users/arturafonin/Sites/roomble.com.dev.ru/sass/vendor/slider.scss",
+		"/Users/arturafonin/Sites/roomble.com.dev.ru/scripts/main.js",
+		"/Users/arturafonin/Sites/roomble.com.dev.ru/haml/publication.haml"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"filename"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"get",
+			"post",
+			"Consolas",
+			"Monofur",
+			"Monaco",
+			"foo",
+			"$",
+			"array",
+			"static",
+			"Input",
+			"Hello",
+			"foo",
+			"input",
+			"key",
+			" col5",
+			" col4",
+			" col3",
+			"col2",
+			"col1",
+			"box",
+			"imagesLoaded",
+			"script",
+			"masonry",
+			"php",
+			"Parse::load ",
+			"/usr/bin",
+			"brew",
+			"redirect",
+			"Parse::load ",
+			"site",
+			"return_data",
+			"timeout",
+			"return_data",
+			"load_by_file_get_contents",
+			"script",
+			"$data[\"data\"]",
+			"exit",
+			"Parse::load",
+			"load_by_curl",
+			"count",
+			"$data",
+			"data",
+			"$data[",
+			"data",
+			"returned",
+			"load_by_curl",
+			"print_r",
+			"is_assoc",
+			"redirect",
+			"arraey_keys",
+			"do_curl",
+			"get_data",
+			"$crawler",
+			"get_header_status",
+			"tag",
+			"count",
+			"parse_arenda_data",
+			"URL::domain",
+			"images",
+			"filter",
+			"parse_arenda_data",
+			"$cities",
+			"котельники",
+			"$temp_city",
+			"$element['city']",
+			"DOCROOT",
+			"curl_setopt",
+			"load_by_curl",
+			"self::$timeout",
+			"load_by_file_get_contents",
+			"sleep",
+			"Parse::load",
+			"Parse",
+			"crawler",
+			"Изображения",
+			"parse_arenda_data",
+			"ways",
+			"use",
+			"params",
+			"$item[\"params\"]",
+			"filter",
+			"table",
+			"cookie",
+			"Image",
+			"http://kazan.kartasporta.ru/catalogue/sport/Sportivnaya_shkola_SDYUSSHOR_121320146565/",
+			"parse_item_page",
+			"ITEMS",
+			"&",
+			"$element",
+			"parse_item_page",
+			"parse_data",
+			"is_cached",
+			"$count",
+			"exit",
+			"<table",
+			"Parse::load",
+			"load",
+			"){",
+			"if(",
+			"false",
+			"true",
+			"load_by_file_get_contents",
+			"TRUE",
+			"CURL",
+			"$element_data",
+			"Parse::load",
+			"Image",
+			"Img",
+			"img",
+			"link",
+			"element_category",
+			"roomble",
+			"position",
+			"aerr",
+			"absolute",
+			"comments",
+			"switch-control",
+			"row",
+			"emCalc",
+			"resize",
+			"slideHeight",
+			"main-slider",
+			"islide",
+			"button-custom",
+			".iosSlider",
+			"iislider2",
+			"slider-nav-panel",
+			"button"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"item",
+			" ) {",
+			") {",
+			"if ( ",
+			"FALSE",
+			"TRUE",
+			"	",
+			" ",
+			"	",
+			"'",
+			"$region_last_key",
+			"$region_arr"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 253.0
+	},
+	"project": "layout.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"cache",
+				"Libs/classes/Helper/Cache.php"
+			],
+			[
+				"json",
+				"json.php"
+			],
+			[
+				"header",
+				"include/header.php"
+			],
+			[
+				"",
+				"include/footer.php"
+			],
+			[
+				"pub",
+				"publication.html"
+			],
+			[
+				"sty",
+				"sass/_styles.scss"
+			],
+			[
+				"parse",
+				"Libs/classes/parse.php"
+			],
+			[
+				"html",
+				"Libs/classes/Helper/HTML.php"
+			],
+			[
+				"image",
+				"lib/image.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
