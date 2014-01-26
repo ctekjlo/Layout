@@ -1,7 +1,5 @@
 ;(function ( $, window, document, undefined ) {
 
-
-	// JavaScript Code Here
-
+	// code here
 
 })( jQuery, window, document );
