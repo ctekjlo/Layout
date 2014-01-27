@@ -11,7 +11,7 @@
 	%meta{:"http-equiv" => "imagetoolbar", :content => "false"}/
 	%meta{:name => "SKYPE_TOOLBAR", :content => "SKYPE_TOOLBAR_PARSER_COMPATIBLE"}/
 
-	%title Default Template Layout
+	%title Simple Template Layout
 
 	/ Fonts
 	%link{:href => "http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic&subset=latin,cyrillic-ext,latin-ext,cyrillic", :rel => 'stylesheet', :type => 'text/css'}/
@@ -20,7 +20,7 @@
 	%link{:href => "assets/bower_components/normalize-css/normalize.css", :rel => "stylesheet", :type => 'text/css'}/
 	%link{:href => "assets/css/styles.css", :rel => "stylesheet", :type => 'text/css'}/
 
-	%script{:src => "assets/js/plugins.min.js"}
+	%script{:src => "assets/js/libs.min.js"}
 
 	/
 		Libs
@@ -39,13 +39,18 @@
 	%script
 %body
 	#container
-		%h1 Default Simple Template Layout
-		%p Text
+		%h1 Simple Template Layout
+		%p Project based on HAML, SCSS
+		%p
+			Version: 0.0.7
+			%br/
+			Email: ctekjlo@gmail.com
 
 		/ Html code here
 
 
 	/ Scripts
+	%script{:src => "assets/js/plugins.min.js"}
 	%script{:src => "assets/js/scripts.min.js"}
 
 </html>
