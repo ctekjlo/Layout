@@ -2,114 +2,170 @@
   "CodeKitInfo" : "This is a CodeKit project configuration file. It is designed to sync project settings across multiple machines. Modifying the contents of this file can be a poor life decision if you don't know what you're doing. This file is not useful unless accompanied by the project that created it in CodeKit. For more information, see: http:\/\/incident57.com\/codekit",
   "creatorBuild" : "8403",
   "files" : {
-    "\/assets\/js\/libs\/jquery-migrate-1.2.1.js" : {
+    "\/development\/assets\/js\/plugins.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/js\/libs\/jquery-migrate-1.2.1.js",
+      "inputAbbreviatedPath" : "\/development\/assets\/js\/plugins.js",
       "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/assets\/js\/libs\/jquery-migrate-1.2.1-ck.js",
+      "syntaxCheckerStyle" : 0,
+      "outputAbbreviatedPath" : "\/production\/assets\/js\/plugins.min.js",
       "fileType" : 64
     },
-    "\/assets\/js\/main-ck.js" : {
+    "\/development\/assets\/js\/libs\/modernizr.custom.02435.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/js\/main-ck.js",
+      "inputAbbreviatedPath" : "\/development\/assets\/js\/libs\/modernizr.custom.02435.js",
       "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/assets\/js\/main-ck-ck.js",
+      "syntaxCheckerStyle" : 0,
+      "outputAbbreviatedPath" : "\/production\/assets\/js\/modernizr.custom.02435.min.js",
       "fileType" : 64
     },
-    "\/assets\/js\/libs\/jquery-2.1.0.js" : {
+    "\/production\/assets\/bower_components\/normalize-css\/normalize.css" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/js\/libs\/jquery-2.1.0.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/assets\/js\/libs\/jquery-2.1.0-ck.js",
-      "fileType" : 64
+      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/normalize-css\/normalize.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
-    "\/assets\/js\/scripts.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/js\/scripts.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/assets\/js\/scripts-ck.js",
-      "fileType" : 64
-    },
-    "\/assets\/js\/scripts-ck.js" : {
+    "\/production\/assets\/css\/styles.css" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/js\/scripts-ck.js",
+      "inputAbbreviatedPath" : "\/production\/assets\/css\/styles.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
+    "\/production\/assets\/js\/plugins.min.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/production\/assets\/js\/plugins.min.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/assets\/js\/scripts-ck-ck.js",
+      "outputAbbreviatedPath" : "\/production\/assets\/js\/plugins.min.min.js",
       "fileType" : 64
     },
-    "\/index.html" : {
+    "\/config.rb" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/index.html",
+      "inputAbbreviatedPath" : "\/config.rb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 32768
+    },
+    "\/production\/assets\/js\/scripts.min.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/production\/assets\/js\/scripts.min.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/assets\/js\/scripts.min.min.js",
+      "fileType" : 64
+    },
+    "\/development\/assets\/js\/libs\/jquery-2.1.0.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/development\/assets\/js\/libs\/jquery-2.1.0.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 0,
+      "outputAbbreviatedPath" : "\/production\/assets\/js\/jquery-2.1.0.min.js",
+      "fileType" : 64
+    },
+    "\/development\/assets\/js\/libs\/jquery-migrate-1.2.1.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/development\/assets\/js\/libs\/jquery-migrate-1.2.1.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 0,
+      "outputAbbreviatedPath" : "\/production\/assets\/js\/jquery-migrate-1.2.1.min.js",
+      "fileType" : 64
+    },
+    "\/development\/assets\/js\/scripts.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/development\/assets\/js\/scripts.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 0,
+      "outputAbbreviatedPath" : "\/production\/assets\/js\/scripts.min.js",
+      "fileType" : 64
+    },
+    "\/development\/assets\/scss\/styles.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/development\/assets\/scss\/styles.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/production\/css\/styles.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/production\/index.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/production\/index.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/assets\/css\/styles.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
+    "\/development\/index.haml" : {
+      "inputAbbreviatedPath" : "\/development\/index.haml",
+      "outputAbbreviatedPath" : "\/production\/index.html",
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/css\/styles.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
-    "\/assets\/bower_components\/normalize-css\/normalize.css" : {
-      "ignoreWasSetByUser" : 0,
+      "escapeHTMLCharacters" : 0,
+      "useUnixNewlines" : 0,
+      "useCDATA" : 1,
       "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/bower_components\/normalize-css\/normalize.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
-    "\/assets\/js\/libs\/modernizr.custom.02435.js" : {
+      "noEscapeInAttributes" : 0,
+      "outputFormat" : 2,
+      "useDoubleQuotes" : 1,
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
       "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/js\/libs\/modernizr.custom.02435.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/assets\/js\/libs\/modernizr.custom.02435-ck.js",
-      "fileType" : 64
-    },
-    "\/assets\/scss\/styles.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/scss\/styles.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/assets\/css\/styles.css",
-      "fileType" : 4,
-      "debugStyle" : 0
+      "fileType" : 256,
+      "outputStyle" : 0
     }
   },
   "manualImportLinks" : [
-
+    {
+      "type" : 0,
+      "position" : 0,
+      "linkedFileAbbreviatedPath" : "\/development\/assets\/js\/libs\/modernizr.custom.02435.js",
+      "baseFileAbbreviatedPath" : "\/development\/assets\/js\/plugins.js",
+      "followForSyntaxChecking" : 1
+    },
+    {
+      "type" : 0,
+      "position" : 1,
+      "linkedFileAbbreviatedPath" : "\/development\/assets\/js\/libs\/jquery-2.1.0.js",
+      "baseFileAbbreviatedPath" : "\/development\/assets\/js\/plugins.js",
+      "followForSyntaxChecking" : 1
+    },
+    {
+      "type" : 0,
+      "position" : 2,
+      "linkedFileAbbreviatedPath" : "\/development\/assets\/js\/libs\/jquery-migrate-1.2.1.js",
+      "baseFileAbbreviatedPath" : "\/development\/assets\/js\/plugins.js",
+      "followForSyntaxChecking" : 1
+    }
   ],
   "projectSettings" : {
     "hamlNoEscapeInAttributes" : 0,
@@ -119,11 +175,11 @@
     "draggedImportConcatenationStyle" : 1,
     "jadeAutoOutputPathStyle" : 0,
     "hamlEscapeHTMLCharacters" : 0,
-    "javascriptAutoOutputPathStyle" : 0,
+    "javascriptAutoOutputPathStyle" : 1,
     "hamlOutputFormat" : 2,
     "stylusAutoOutputPathReplace1" : "stylus",
     "lessStrictImports" : 0,
-    "sassAutoOutputPathStyle" : 2,
+    "sassAutoOutputPathStyle" : 1,
     "stylusAutoOutputPathReplace2" : "css",
     "lessAutoOutputPathStyle" : 2,
     "lessIECompatibility" : 1,
@@ -131,19 +187,19 @@
     "lessStrictUnits" : 0,
     "lessStrictMath" : 0,
     "coffeeMinifyOutput" : 1,
-    "javascriptOutputSuffix" : "-ck",
+    "javascriptOutputSuffix" : ".min",
     "jadeOutputStyle" : 0,
     "coffeeAutoOutputPathStyle" : 0,
     "autoSyncProjectSettingsFile" : 1,
     "lessAutoOutputPathReplace1" : "less",
     "jadeAutoOutputPathReplace1" : "",
     "lessAutoOutputPathRelativePath" : "..\/css",
-    "hamlAutoOutputPathRelativePath" : "",
+    "hamlAutoOutputPathRelativePath" : "production",
     "jsCheckerReservedNamesString" : "",
     "javascriptOutputStyle" : 1,
     "stylusDebugStyle" : 0,
-    "hamlUseCDATA" : 0,
-    "hamlAutoOutputPathStyle" : 0,
+    "hamlUseCDATA" : 1,
+    "hamlAutoOutputPathStyle" : 1,
     "sassDebugStyle" : 0,
     "hamlOutputStyle" : 0,
     "stylusAutoOutputPathRelativePath" : "..\/css",
@@ -162,16 +218,16 @@
     "coffeeAutoOutputPathRelativePath" : "",
     "slimCompileOnly" : 0,
     "slimLogicless" : 0,
-    "uglifyIndent" : 4,
+    "uglifyIndent" : 2,
     "jadeAutoOutputPathRelativePath" : "",
     "hamlUseUnixNewlines" : 0,
     "hamlAutoOutputPathReplace1" : "",
     "javascriptAutoOutputPathReplace1" : "",
     "stylusOutputStyle" : 0,
     "javascriptAutoOutputPathReplace2" : "",
-    "sassAutoOutputPathRelativePath" : "..\/css",
+    "sassAutoOutputPathRelativePath" : "production\/assets\/css\/",
     "coffeeAutoOutputPathReplace1" : "",
-    "hamlUseDoubleQuotes" : 0,
+    "hamlUseDoubleQuotes" : 1,
     "coffeeAutoOutputPathReplace2" : "",
     "kitAutoOutputPathReplace1" : "",
     "uglifyReservedNamesString" : "",
@@ -281,13 +337,13 @@
     "kitAutoOutputPathReplace2" : "",
     "lessRelativeURLS" : 0,
     "lessDebugStyle" : 0,
-    "javascriptAutoOutputPathRelativePath" : "",
+    "javascriptAutoOutputPathRelativePath" : "production\/assets\/js",
     "slimAutoOutputPathStyle" : 0
   },
   "projectAttributes" : {
     "bourbonEnabled" : 0,
-    "displayValue" : "Layout",
+    "displayValue" : "Test",
     "displayValueWasSetByUser" : 0,
-    "compassEnabled" : 0
+    "compassEnabled" : 1
   }
 }
