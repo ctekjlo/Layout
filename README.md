@@ -11,3 +11,14 @@ Simple Template Layouts
 
 	# Install bower components http://bower.io/
 	bower install
+
+### Use
+
+	Sublime
+	CodeKit
+	HAML
+	SCSS
+
+### Versions
+
+Current version: 0.0.7
