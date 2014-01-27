@@ -1,10 +1,13 @@
-core
+Default Template Layouts
 ====
 
-Core system classes from Kohana
+### Init Project
 
-Install
+	# Clone https://github.com/ctekjlo/Layout
+	git clone https://github.com/ctekjlo/Layout.git project_dir
 
+	# Go to project dir
+	cd project_dir
 
-# Init bower components
-bower install
+	# Install bower components http://bower.io/
+	bower install
