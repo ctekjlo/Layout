@@ -1,4 +1,4 @@
-Default Template Layouts
+Simple Template Layouts
 ====
 
 ### Init Project
