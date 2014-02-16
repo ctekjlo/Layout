@@ -13,3 +13,288 @@
 .color-green		{ color: #859900; }
 
 .color-yellow-light	{ color: #FDF5CC; }
+
+/* Brand
+   -------------------------------------------------------------------------------------------------------------------*/
+$amazon-orange:        #FF9900;
+$facebook-blue:        #3B5998;
+$flickr-pink:          #FF0084;
+$foursquare-blue:      #3AB6E8;
+$googleplus-red:       #D14836;
+$instagram-brown:      #4E433C;
+$linkedin-blue:        #4875B4;
+$netflix-red:          #FF0008;
+$skype-blue:           #00AFF0;
+$tumblr-blue:          #2C4762;
+$twitter-blue:         #4099FF;
+$vimeo-blue:           #2986c2;
+$youtube-red:          #FF3333;
+$xbox-green:           rgb(119,187,068);
+$blogger-orange:       rgb(255,102,000);
+$creativecommons-gray: rgb(171,179,172);
+$delicious-blue:       rgb(064,122,204);
+$deviantart-green:     rgb(064,083,074);
+$dribbble-pink:        rgb(234,076,137);
+$dropbox-blue:         rgb(031,117,204);
+$lastfm-red:           rgb(213,016,007);
+$muji-red:             rgb(127,000,025);
+$pinterest-red:        rgb(203,032,039);
+$posterous-yellow:     rgb(245,204,082);
+$readability-red:      rgb(135,000,000);
+
+/* Crayola
+   -------------------------------------------------------------------------------------------------------------------*/
+// Crayola Standard
+$crayola-almond:                   #EFDECD;
+$crayola-antique-brass:            #CD9575; // Metallic.
+$crayola-apricot:                  #FDD9B5;
+$crayola-aquamarine:               #78DBE2;
+$crayola-asparagus:                #87A96B;
+$crayola-atomic-tangerine:         #FFA474; // Renamed from "Ultra Yellow" in 1990. Fluorescent.
+$crayola-banana-mania:             #FAE7B5;
+$crayola-beaver:                   #9F8170;
+$crayola-bittersweet:              #FD7C6E;
+$crayola-black:                    #000000;
+$crayola-blizzard-blue:            #ACE5EE; // Renamed from "Ultra Blue" in 1990. Fluorescent.
+$crayola-blue:                     #1F75FE;
+$crayola-blue-bell:                #A2A2D0;
+$crayola-blue-gray:                #6699CC;
+$crayola-blue-green:               #0D98BA;
+$crayola-blue-violet:              #7366BD;
+$crayola-blush:                    #DE5D83; // Renamed from "Cranberry" in 2000.
+$crayola-brick-red:                #CB4154;
+$crayola-brown:                    #B4674D;
+$crayola-burnt-orange:             #FF7F49;
+$crayola-burnt-sienna:             #EA7E5D;
+$crayola-cadet-blue:               #B0B7C6;
+$crayola-canary:                   #FFFF99;
+$crayola-caribbean-green:          #1CD3A2;
+$crayola-carnation-pink:           #FFAACC;
+$crayola-cerise:                   #DD4492;
+$crayola-cerulean:                 #1DACD6;
+$crayola-chestnut:                 #BC5D58; // Renamed from "Indian Red" in 1999.
+$crayola-copper:                   #DD9475; // Metallic.
+$crayola-cornflower:               #9ACEEB;
+$crayola-cotton-candy:             #FFBCD9;
+$crayola-dandelion:                #FDDB6D;
+$crayola-denim:                    #2B6CC4;
+$crayola-desert-sand:              #EFCDB8;
+$crayola-eggplant:                 #6E5160;
+$crayola-electric-lime:            #CCFF00; // Fluorescent.
+$crayola-fer:                      #71BC78;
+$crayola-forest-green:             #6DAE81;
+$crayola-fuchsia:                  #C364C5;
+$crayola-fuzzy-wuzzy:              #CC6666;
+$crayola-gold:                     #E7C697; // Metallic.
+$crayola-goldenrod:                #FCD975;
+$crayola-granny-smith-apple:       #A8E4A0;
+$crayola-gray:                     #95918C;
+$crayola-green:                    #1CAC78;
+$crayola-green-blue:               #1164B4;
+$crayola-green-yellow:             #ADFF2F;
+$crayola-hot-magenta:              #FF1DCE; // Fluorescent.
+$crayola-inchworm:                 #B2EC5D;
+$crayola-indigo:                   #5D76CB;
+$crayola-jazzberry-jam:            #CA3767;
+$crayola-jungle-green:             #3BB08F;
+$crayola-laser-lemon:              #FFFF66; // Renamed from "Chartreuse" in 1990. Fluorescent.
+$crayola-lavender:                 #FCB4D5;
+$crayola-lemon-yellow:             #FFF44F;
+$crayola-macaroni-and-cheese:      #FFBD88;
+$crayola-magenta:                  #F664AF;
+$crayola-magic-mint:               #AAF0D1; // Fluorescent.
+$crayola-mahogany:                 #CD4A4C;
+$crayola-maize:                    #EDD19C;
+$crayola-manatee:                  #979AAA;
+$crayola-mango-tango:              #FF8243;
+$crayola-maroon:                   #C8385A;
+$crayola-mauvelous:                #EF98AA;
+$crayola-melon:                    #FDBCB4;
+$crayola-midnight-blue:            #1A4876; // Renamed from "Prussian Blue" in 1958.
+$crayola-mountain-meadow:          #30BA8F;
+$crayola-mulberry:                 #C54B8C;
+$crayola-navy-blue:                #1974D2;
+$crayola-neon-carrot:              #FFA343; // Fluorescent.
+$crayola-olive-green:              #BAB86C;
+$crayola-orange:                   #FF7538;
+$crayola-orange-red:               #FF2B2B;
+$crayola-orange-yellow:            #F8D568;
+$crayola-orchid:                   #E6A8D7;
+$crayola-outer-space:              #414A4C;
+$crayola-outrageous-orange:        #FF6E4A; // Renamed from "Ultra Orange" in 1990. Fluorescent.
+$crayola-pacific-blue:             #1CA9C9;
+$crayola-peach:                    #FFCFAB; // Renamed from "Flesh" in 1962.
+$crayola-periwinkle:               #C5D0E6;
+$crayola-piggy-pink:               #FDDDE6;
+$crayola-pine-green:               #158078;
+$crayola-pink-flamingo:            #FC74FD; // Fluoresent.
+$crayola-pink-sherbert:            #F78FA7; // Renamed from "Brink Pink" in 2000.
+$crayola-plum:                     #8E4585;
+$crayola-purple-heart:             #7442C8;
+$crayola-purple-mountains-majesty: #9D81BA;
+$crayola-purple-pizzazz:           #FE4EDA; // Fluorescent.
+$crayola-radical-red:              #FF496C; // Fluorescent.
+$crayola-raw-sienna:               #D68A59;
+$crayola-raw-umber:                #714B23;
+$crayola-razzle-dazzle-rose:       #FF48D0; // Fluorescent.
+$crayola-razzmatazz:               #E3256B;
+$crayola-red:                      #EE204D;
+$crayola-red-orange:               #FF5349;
+$crayola-red-violet:               #C0448F;
+$crayola-robins-egg-blue:          #1FCECB;
+$crayola-royal-purple:             #7851A9;
+$crayola-salmon:                   #FF9BAA;
+$crayola-scarlet:                  #FC2847; // Renamed from "Torch Red" in 2000.
+$crayola-screamin-green:           #66FF66; // Renamed from "Ultra Green" in 1990. Fluorescent.
+$crayola-sea-green:                #9FE2BF;
+$crayola-sepia:                    #A5694F;
+$crayola-shadow:                   #8A795D;
+$crayola-shamrock:                 #45CEA2;
+$crayola-shocking-pink:            #FB7EFD; // Renamed from "Ultra Pink" in 1990. Fluorescent.
+$crayola-silver:                   #CDC5C2; // Metallic.
+$crayola-sky-blue:                 #80DAEB;
+$crayola-spring-green:             #ECEABE;
+$crayola-sunglow:                  #FFCF48; // Fluorescent.
+$crayola-sunset-orange:            #FD5E53;
+$crayola-tan:                      #FAA76C;
+$crayola-teal-blue:                #18A7B5;
+$crayola-thistle:                  #EBC7DF;
+$crayola-tickle-me-pink:           #FC89AC; // Named in a contest by ClevverTV Personality Joslyn Davis.
+$crayola-timberwolf:               #DBD7D2;
+$crayola-tropical-rain-forest:     #17806D;
+$crayola-tumbleweed:               #DEAA88;
+$crayola-turquoise-blue:           #77DDE7;
+$crayola-unmellow-yellow:          #FFFF83; // Fluorescent.
+$crayola-violet:                   #926EAE; // (Purple)
+$crayola-violet-blue:              #324AB2;
+$crayola-violet-red:               #F75394;
+$crayola-vivid-tangerine:          #FFA089;
+$crayola-vivid-violet:             #8F509D;
+$crayola-white:                    #FFFFFF;
+$crayola-wild-blue-yonder:         #A2ADD0;
+$crayola-wild-strawberry:          #FF43A4;
+$crayola-wild-watermelon:          #FC6C85; // Renamed from "Ultra Red" in 1990. Fluorescent.
+$crayola-wisteria:                 #CDA4DE;
+$crayola-yellow:                   #FFFF00;
+$crayola-yellow-green:             #C5E384;
+$crayola-yellow-orange:            #FFAE42;
+
+// Crayola Standard Color Aliases
+$crayola-brink-pink:               $crayola-pink-sherbert;
+$crayola-chartreuse:               $crayola-laser-lemon;
+$crayola-cranberry:                $crayola-blush;
+$crayola-flesh:                    $crayola-peach;
+$crayola-indian-red:               $crayola-chestnut;
+$crayola-prussian-blue:            $crayola-midnight-blue;
+$crayola-torch-red:                $crayola-scarlet;
+$crayola-ultra-blue:               $crayola-blizzard-blue;
+$crayola-ultra-green:              $crayola-screamin-green;
+$crayola-ultra-orange:             $crayola-outrageous-orange;
+$crayola-ultra-pink:               $crayola-shocking-pink;
+$crayola-ultra-red:                $crayola-wild-watermelon;
+$crayola-ultra-yellow:             $crayola-atomic-tangerine;
+
+// Crayola Magic Scent
+$crayola-baby-powder:              #FEFEFA;
+$crayola-banana:                   #FFD12A;
+$crayola-blueberry:                #4F86F7;
+$crayola-bubble-gum:               #FFD3F8;
+$crayola-cedar-chest:              #C95A49;
+$crayola-cherry:                   #DA2647;
+$crayola-chocolate:                #BD8260;
+$crayola-coconut:                  #FEFEFE;
+$crayola-daffodil:                 #FFFF31;
+$crayola-dirt:                     #9B7653;
+$crayola-eucalyptus:               #44D7A8;
+$crayola-fresh-air:                #A6E7FF;
+$crayola-grape:                    #6F2DA8;
+$crayola-jelly-bean:               #DA614E;
+$crayola-leather-jacket:           #253529;
+$crayola-lemon:                    #FFFF38;
+$crayola-licorice:                 #1A1110;
+$crayola-lilac:                    #DB91EF;
+$crayola-lime:                     #B2F302;
+$crayola-lumber:                   #FFE4CD;
+$crayola-new-car:                  #214FC6;
+$crayola-orange:                   #FF8866;
+$crayola-peach:                    #FFD0B9;
+$crayola-pine:                     #45A27D;
+$crayola-rose:                     #FF5050;
+$crayola-shampoo:                  #FFCFF1;
+$crayola-smoke:                    #738276;
+$crayola-soap:                     #CEC8EF;
+$crayola-strawberry:               #FC5A8D;
+$crayola-tulip:                    #FF878D;
+
+// Crayola Gem Tones
+$crayola-amethyst:                 #892EB0;
+$crayola-citrine:                  #A54E37;
+$crayola-emerald:                  #389765;
+$crayola-jade:                     #42BD9D;
+$crayola-jasper:                   #D73B3E;
+$crayola-lapis-lazuli:             #2E008C;
+$crayola-malachite:                #17857B;
+$crayola-moonstone:                #73A9C2;
+$crayola-onyx:                     #0F0F0F;
+$crayola-peridot:                  #E6E200;
+$crayola-pink-pearl:               #E7ACCF;
+$crayola-rose-quartz:              #CF2583;
+$crayola-ruby:                     #DC0646;
+$crayola-sapphire:                 #557DDB;
+$crayola-smokey-topaz:             #933D41;
+$crayola-tigers-eye:               #E08D3C;
+
+/* Pantone
+   -------------------------------------------------------------------------------------------------------------------*/
+// OS X Safari
+$osx-safari-selection-color: rgb(176,211,248);
+
+// OS X Crayons
+$osx-aluminum:   rgb(169,169,169);
+$osx-aqua:       rgb(000,152,248);
+$osx-asparagus:  rgb(146,144,042);
+$osx-banana:     rgb(254,251,139);
+$osx-blueberry:  rgb(028,057,246);
+$osx-bubblegum:  rgb(255,134,248);
+$osx-cantaloupe: rgb(255,211,133);
+$osx-carnation:  rgb(255,138,212);
+$osx-cayenne:    rgb(152,013,008);
+$osx-clover:     rgb(000,143,040);
+$osx-eggplant:   rgb(086,030,141);
+$osx-fern:       rgb(071,143,041);
+$osx-flora:      rgb(096,250,137);
+$osx-grape:      rgb(154,060,246);
+$osx-honeydew:   rgb(208,251,138);
+$osx-ice:        rgb(099,254,254);
+$osx-iron:       rgb(095,094,095);
+$osx-lavender:   rgb(220,132,248);
+$osx-lead:       rgb(033,033,033);
+$osx-lemon:      rgb(254,250,081);
+$osx-licorice:   rgb(000,000,000);
+$osx-lime:       rgb(129,249,078);
+$osx-magenta:    rgb(255,067,247);
+$osx-magnesium:  rgb(192,192,192);
+$osx-maraschino: rgb(255,031,023);
+$osx-maroon:     rgb(152,021,079);
+$osx-mercury:    rgb(235,235,235);
+$osx-midnight:   rgb(011,029,141);
+$osx-mocha:      rgb(150,081,023);
+$osx-moss:       rgb(000,143,088);
+$osx-nickel:     rgb(146,146,146);
+$osx-ocean:      rgb(000,085,142);
+$osx-orchid:     rgb(124,131,248);
+$osx-plum:       rgb(153,034,141);
+$osx-salmon:     rgb(255,125,123);
+$osx-seafoam:    rgb(000,250,157);
+$osx-silver:     rgb(214,214,214);
+$osx-sky:        rgb(110,215,252);
+$osx-snow:       rgb(255,255,255);
+$osx-spindrift:  rgb(098,252,216);
+$osx-spring:     rgb(000,249,076);
+$osx-steel:      rgb(121,121,121);
+$osx-strawberry: rgb(255,045,143);
+$osx-tangerine:  rgb(255,146,048);
+$osx-teal:       rgb(000,145,146);
+$osx-tin:        rgb(145,145,145);
+$osx-tungsten:   rgb(066,066,066);
+$osx-turquoise:  rgb(000,253,254);
