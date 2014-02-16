@@ -1,12 +1,16 @@
 ;(function ( $, window, document, undefined ) {
 
-  // code here
+  // Code here
   console.log ( 'Default Template LayoutInit' );
 
-  // Button
-  // $('button.button-1').on('click', function(event) {
+  // Click on Button
+  // $('body').on('click touchstart', 'button.button-1', function(event) {
+
+  //   var that = this
+  //     , $elm = $(that);
 
   //  console.log ( "Click" );
+  //  // console.log(event);
 
   // });
 
