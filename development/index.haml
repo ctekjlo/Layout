@@ -21,20 +21,53 @@
   %link{:href => "assets/css/styles.css", :rel => "stylesheet", :type => 'text/css'}/
 
   %script{:src => "assets/js/libs.min.js"}
-
-  %style
-  %script
 %body
   #container
-    %h1 Simple Template Layouts Жора
-    %p Project based on HAML, SCSS
-    %p
+    %h1 Simple Template Layouts
+    %p.text-center Project based on HAML, SCSS
+    %p.text-center
       Version: 0.0.7
       %br/
       Email: ctekjlo@gmail.com
 
     / Html code here
-    %button.button-1.sun-flower-button Button
+    %button.sun-flower-button.button-1 Click Button
+
+    / DEMO
+
+    /
+      Form
+      %form{:action => '', :method => 'post'}
+        %p
+          %label Name
+          %input{ :type => 'text', :value => 'Name' }
+        %p
+          %label Lastname
+          %input{ :type => 'text' }
+
+    /
+      Buttons
+      %button.sun-flower-button ButtonName
+      %button.orange-flat-button ButtonName
+      %button.carrot-flat-button ButtonName
+      %button.pumpkin-flat-button ButtonName
+      %button.alizarin-flat-button ButtonName
+      %button.pomegranate-flat-button ButtonName
+      %button.turquoise-flat-button ButtonName
+      %button.green-sea-flat-button ButtonName
+      %button.emerald-flat-button ButtonName
+      %button.nephritis-flat-button ButtonName
+      %button.peter-river-flat-button ButtonName
+      %button.belize-hole-flat-button ButtonName
+      %button.amethyst-flat-button ButtonName
+      %button.wisteria-flat-button ButtonName
+      %button.wet-asphalt-flat-button ButtonName
+      %button.midnight-blue-flat-button ButtonName
+      %button.clouds-flat-button ButtonName
+      %button.silver-flat-button ButtonName
+      %button.concrete-flat-button ButtonName
+      %button.asbestos-flat-button ButtonName
+      %button.graphite-flat-button ButtonName
 
 
   /

@@ -1,11 +1,6 @@
 /* #Buttons
 ==================================================*/
-button { outline: none; }
-
-
-/* #Sun Flower Button
-==================================================*/
-.sun-flower-button {
+.custom-button {
   position: relative;
   vertical-align: top;
   width: 100%;
@@ -14,589 +9,208 @@ button { outline: none; }
   font-size: 22px;
   color: white;
   text-align: center;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
-  background: #f1c40f;
   border: 0;
-  border-bottom: 2px solid #e2b607;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
   cursor: pointer;
-  -webkit-box-shadow: inset 0 -2px #e2b607;
-  box-shadow: inset 0 -2px #e2b607;
-}
-.sun-flower-button:active {
-  top: 1px;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
   outline: none;
-  -webkit-box-shadow: none;
-  box-shadow: none;
+
+  &:active {
+    top: 1px;
+    outline: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+  }
+
+}
+
+/* #Sun Flower Button
+==================================================*/
+.sun-flower-button {
+  @extend .custom-button;
+  background: #f1c40f;
+  border-bottom-color: #e2b607;
+  @include box-shadow(inset 0 -2px #e2b607);
 }
 
 /* #Orange Flat Button
 ==================================================*/
 .orange-flat-button {
-  position: relative;
-  vertical-align: top;
-  width: 100%;
-  height: 60px;
-  padding: 0;
-  font-size: 22px;
-  color: white;
-  text-align: center;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+  @extend .custom-button;
   background: #f39c12;
-  border: 0;
-  border-bottom: 2px solid #e8930c;
-  cursor: pointer;
-  -webkit-box-shadow: inset 0 -2px #e8930c;
-  box-shadow: inset 0 -2px #e8930c;
-}
-.orange-flat-button:active {
-  top: 1px;
-  outline: none;
-  -webkit-box-shadow: none;
-  box-shadow: none;
+  border-bottom-color: #e8930c;
+  @include box-shadow(inset 0 -2px #e8930c);
 }
 
 /* #Carrot Flat Button
 ==================================================*/
 .carrot-flat-button {
-  position: relative;
-  vertical-align: top;
-  width: 100%;
-  height: 60px;
-  padding: 0;
-  font-size: 22px;
-  color: white;
-  text-align: center;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+  @extend .custom-button;
   background: #e67e22;
-  border: 0;
-  border-bottom: 2px solid #da751c;
-  cursor: pointer;
-  -webkit-box-shadow: inset 0 -2px #da751c;
-  box-shadow: inset 0 -2px #da751c;
-}
-.carrot-flat-button:active {
-  top: 1px;
-  outline: none;
-  -webkit-box-shadow: none;
-  box-shadow: none;
+  border-bottom-color: #da751c;
+  @include box-shadow(inset 0 -2px #da751c);
 }
 
 /* #Pumpkin Flat Button
 ==================================================*/
 .pumpkin-flat-button {
-  position: relative;
-  vertical-align: top;
-  width: 100%;
-  height: 60px;
-  padding: 0;
-  font-size: 22px;
-  color: white;
-  text-align: center;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+  @extend .custom-button;
   background: #d35400;
-  border: 0;
-  border-bottom: 2px solid #c54e00;
-  cursor: pointer;
-  -webkit-box-shadow: inset 0 -2px #c54e00;
-  box-shadow: inset 0 -2px #c54e00;
-}
-.pumpkin-flat-button:active {
-  top: 1px;
-  outline: none;
-  -webkit-box-shadow: none;
-  box-shadow: none;
+  border-bottom-color: #c54e00;
+  @include box-shadow(inset 0 -2px #c54e00);
 }
 
 /* #Alizarin Flat Button
 ==================================================*/
 .alizarin-flat-button {
-  position: relative;
-  vertical-align: top;
-  width: 100%;
-  height: 60px;
-  padding: 0;
-  font-size: 22px;
-  color: white;
-  text-align: center;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+  @extend .custom-button;
   background: #e74c3c;
-  border: 0;
-  border-bottom: 2px solid #db4334;
-  cursor: pointer;
-  -webkit-box-shadow: inset 0 -2px #db4334;
-  box-shadow: inset 0 -2px #db4334;
-}
-.alizarin-flat-button:active {
-  top: 1px;
-  outline: none;
-  -webkit-box-shadow: none;
-  box-shadow: none;
+  border-bottom-color: #db4334;
+  @include box-shadow(inset 0 -2px #db4334);
 }
 
 /* #Pomegranate Flat Button
 ==================================================*/
 .pomegranate-flat-button {
-  position: relative;
-  vertical-align: top;
-  width: 100%;
-  height: 60px;
-  padding: 0;
-  font-size: 22px;
-  color: white;
-  text-align: center;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+  @extend .custom-button;
   background: #c0392b;
-  border: 0;
-  border-bottom: 2px solid #b53224;
-  cursor: pointer;
-  -webkit-box-shadow: inset 0 -2px #b53224;
-  box-shadow: inset 0 -2px #b53224;
-}
-.pomegranate-flat-button:active {
-  top: 1px;
-  outline: none;
-  -webkit-box-shadow: none;
-  box-shadow: none;
+  border-bottom-color: #b53224;
+  @include box-shadow(inset 0 -2px #b53224);
 }
 
 /* #Turquoise Flat Button
 ==================================================*/
 .turquoise-flat-button {
-  position: relative;
-  vertical-align: top;
-  width: 100%;
-  height: 60px;
-  padding: 0;
-  font-size: 22px;
-  color: white;
-  text-align: center;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+  @extend .custom-button;
   background: #1abc9c;
-  border: 0;
-  border-bottom: 2px solid #12ab8d;
-  cursor: pointer;
-  -webkit-box-shadow: inset 0 -2px #12ab8d;
-  box-shadow: inset 0 -2px #12ab8d;
-}
-.turquoise-flat-button:active {
-  top: 1px;
-  outline: none;
-  -webkit-box-shadow: none;
-  box-shadow: none;
+  border-bottom-color: #12ab8d;
+  @include box-shadow(inset 0 -2px #12ab8d);
 }
 
 /* #Green Sea Flat Button
 ==================================================*/
 .green-sea-flat-button {
-  position: relative;
-  vertical-align: top;
-  width: 100%;
-  height: 60px;
-  padding: 0;
-  font-size: 22px;
-  color: white;
-  text-align: center;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+  @extend .custom-button;
   background: #16a085;
-  border: 0;
-  border-bottom: 2px solid #14947b;
-  cursor: pointer;
-  -webkit-box-shadow: inset 0 -2px #14947b;
-  box-shadow: inset 0 -2px #14947b;
-}
-.green-sea-flat-button:active {
-  top: 1px;
-  outline: none;
-  -webkit-box-shadow: none;
-  box-shadow: none;
+  border-bottom-color: #14947b;
+  @include box-shadow(inset 0 -2px #14947b);
 }
 
 /* #Emerald Flat Button
 ==================================================*/
 .emerald-flat-button {
-  position: relative;
-  vertical-align: top;
-  width: 100%;
-  height: 60px;
-  padding: 0;
-  font-size: 22px;
-  color: white;
-  text-align: center;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+  @extend .custom-button;
   background: #2ecc71;
-  border: 0;
-  border-bottom: 2px solid #28be68;
-  cursor: pointer;
-  -webkit-box-shadow: inset 0 -2px #28be68;
-  box-shadow: inset 0 -2px #28be68;
-}
-.emerald-flat-button:active {
-  top: 1px;
-  outline: none;
-  -webkit-box-shadow: none;
-  box-shadow: none;
+  border-bottom-color: #28be68;
+  @include box-shadow(inset 0 -2px #28be68);
 }
 
 /* #Nephritis Flat Button
 ==================================================*/
 .nephritis-flat-button {
-  position: relative;
-  vertical-align: top;
-  width: 100%;
-  height: 60px;
-  padding: 0;
-  font-size: 22px;
-  color: white;
-  text-align: center;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+  @extend .custom-button;
   background: #27ae60;
-  border: 0;
-  border-bottom: 2px solid #219d55;
-  cursor: pointer;
-  -webkit-box-shadow: inset 0 -2px #219d55;
-  box-shadow: inset 0 -2px #219d55;
-}
-.nephritis-flat-button:active {
-  top: 1px;
-  outline: none;
-  -webkit-box-shadow: none;
-  box-shadow: none;
+  border-bottom-color: #219d55;
+  @include box-shadow(inset 0 -2px #219d55);
 }
 
 /* #Peter River Flat Button
 ==================================================*/
 .peter-river-flat-button {
-  position: relative;
-  vertical-align: top;
-  width: 100%;
-  height: 60px;
-  padding: 0;
-  font-size: 22px;
-  color: white;
-  text-align: center;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+  @extend .custom-button;
   background: #3498db;
-  border: 0;
-  border-bottom: 2px solid #2a8bcc;
-  cursor: pointer;
-  -webkit-box-shadow: inset 0 -2px #2a8bcc;
-  box-shadow: inset 0 -2px #2a8bcc;
-}
-.peter-river-flat-button:active {
-  top: 1px;
-  outline: none;
-  -webkit-box-shadow: none;
-  box-shadow: none;
+  border-bottom-color: #2a8bcc;
+  @include box-shadow(inset 0 -2px #2a8bcc);
 }
 
 /* #Belize Hole Sea Flat Button
 ==================================================*/
 .belize-hole-flat-button {
-  position: relative;
-  vertical-align: top;
-  width: 100%;
-  height: 60px;
-  padding: 0;
-  font-size: 22px;
-  color: white;
-  text-align: center;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+  @extend .custom-button;
   background: #2980b9;
-  border: 0;
-  border-bottom: 2px solid #2475ab;
-  cursor: pointer;
-  -webkit-box-shadow: inset 0 -2px #2475ab;
-  box-shadow: inset 0 -2px #2475ab;
-}
-.belize-hole-flat-button:active {
-  top: 1px;
-  outline: none;
-  -webkit-box-shadow: none;
-  box-shadow: none;
+  border-bottom-color: #2475ab;
+  @include box-shadow(inset 0 -2px #2475ab);
 }
 
 /* #Amethyst Flat Button
 ==================================================*/
 .amethyst-flat-button {
-  position: relative;
-  vertical-align: top;
-  width: 100%;
-  height: 60px;
-  padding: 0;
-  font-size: 22px;
-  color: white;
-  text-align: center;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+  @extend .custom-button;
   background: #9b59b6;
-  border: 0;
-  border-bottom: 2px solid #8d4ca7;
-  cursor: pointer;
-  -webkit-box-shadow: inset 0 -2px #8d4ca7;
-  box-shadow: inset 0 -2px #8d4ca7;
-}
-.amethyst-flat-button:active {
-  top: 1px;
-  outline: none;
-  -webkit-box-shadow: none;
-  box-shadow: none;
+  border-bottom-color: #8d4ca7;
+  @include box-shadow(inset 0 -2px #8d4ca7);
 }
 
 /* #Wisteria Flat Button
 ==================================================*/
 .wisteria-flat-button {
-  position: relative;
-  vertical-align: top;
-  width: 100%;
-  height: 60px;
-  padding: 0;
-  font-size: 22px;
-  color: white;
-  text-align: center;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+  @extend .custom-button;
   background: #8e44ad;
-  border: 0;
-  border-bottom: 2px solid #80399d;
-  cursor: pointer;
-  -webkit-box-shadow: inset 0 -2px #80399d;
-  box-shadow: inset 0 -2px #80399d;
-}
-.wisteria-flat-button:active {
-  top: 1px;
-  outline: none;
-  -webkit-box-shadow: none;
-  box-shadow: none;
+  border-bottom-color: #80399d;
+  @include box-shadow(inset 0 -2px #80399d);
 }
 
 /* #Wet Asphalt Flat Button
 ==================================================*/
 .wet-asphalt-flat-button {
-  position: relative;
-  vertical-align: top;
-  width: 100%;
-  height: 60px;
-  padding: 0;
-  font-size: 22px;
-  color: white;
-  text-align: center;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+  @extend .custom-button;
   background: #34495e;
-  border: 0;
-  border-bottom: 2px solid #263849;
-  cursor: pointer;
-  -webkit-box-shadow: inset 0 -2px #263849;
-  box-shadow: inset 0 -2px #263849;
-}
-.wet-asphalt-flat-button:active {
-  top: 1px;
-  outline: none;
-  -webkit-box-shadow: none;
-  box-shadow: none;
-}
-
-/* #Wet Asphalt Flat Button
-==================================================*/
-.wet-asphalt-flat-button {
-  position: relative;
-  vertical-align: top;
-  width: 100%;
-  height: 60px;
-  padding: 0;
-  font-size: 22px;
-  color: white;
-  text-align: center;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
-  background: #34495e;
-  border: 0;
-  border-bottom: 2px solid #263849;
-  cursor: pointer;
-  -webkit-box-shadow: inset 0 -2px #263849;
-  box-shadow: inset 0 -2px #263849;
-}
-.wet-asphalt-flat-button:active {
-  top: 1px;
-  outline: none;
-  -webkit-box-shadow: none;
-  box-shadow: none;
+  border-bottom-color: #263849;
+  @include box-shadow(inset 0 -2px #263849);
 }
 
 /* #Midnight Blue Flat Button
 ==================================================*/
 .midnight-blue-flat-button {
-  position: relative;
-  vertical-align: top;
-  width: 100%;
-  height: 60px;
-  padding: 0;
-  font-size: 22px;
-  color: white;
-  text-align: center;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+  @extend .custom-button;
   background: #2c3e50;
-  border: 0;
-  border-bottom: 2px solid #22303f;
-  cursor: pointer;
-  -webkit-box-shadow: inset 0 -2px #22303f;
-  box-shadow: inset 0 -2px #22303f;
-}
-.midnight-blue-flat-button:active {
-  top: 1px;
-  outline: none;
-  -webkit-box-shadow: none;
-  box-shadow: none;
+  border-bottom-color: #22303f;
+  @include box-shadow(inset 0 -2px #22303f);
 }
 
 /* #Clouds Flat Button
 ==================================================*/
 .clouds-flat-button {
-  position: relative;
-  vertical-align: top;
-  width: 100%;
-  height: 60px;
-  padding: 0;
-  font-size: 22px;
+  @extend .custom-button;
   color:#454545;
-  text-align: center;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
   background: #ecf0f1;
-  border: 0;
-  border-bottom: 2px solid #dadedf;
-  cursor: pointer;
-  -webkit-box-shadow: inset 0 -2px #dadedf;
-  box-shadow: inset 0 -2px #dadedf;
-}
-.clouds-flat-button:active {
-  top: 1px;
-  outline: none;
-  -webkit-box-shadow: none;
-  box-shadow: none;
+  border-bottom-color: #dadedf;
+  @include box-shadow(inset 0 -2px #dadedf);
 }
 
 /* #Silver Flat Button
 ==================================================*/
 .silver-flat-button {
-  position: relative;
-  vertical-align: top;
-  width: 100%;
-  height: 60px;
-  padding: 0;
-  font-size: 22px;
-  color:white;
-  text-align: center;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+  @extend .custom-button;
   background: #bdc3c7;
-  border: 0;
-  border-bottom: 2px solid #acb2b7;
-  cursor: pointer;
-  -webkit-box-shadow: inset 0 -2px #acb2b7;
-  box-shadow: inset 0 -2px #acb2b7;
-}
-.silver-flat-button:active {
-  top: 1px;
-  outline: none;
-  -webkit-box-shadow: none;
-  box-shadow: none;
+  border-bottom-color: #acb2b7;
+  @include box-shadow(inset 0 -2px #acb2b7);
 }
 
 /* #Concrete Flat Button
 ==================================================*/
 .concrete-flat-button {
-  position: relative;
-  vertical-align: top;
-  width: 100%;
-  height: 60px;
-  padding: 0;
-  font-size: 22px;
-  color:white;
-  text-align: center;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+  @extend .custom-button;
   background: #859596;
-  border: 0;
-  border-bottom: 2px solid #95a5a6;
-  cursor: pointer;
-  -webkit-box-shadow: inset 0 -2px #95a5a6;
-  box-shadow: inset 0 -2px #95a5a6;
-}
-.concrete-flat-button:active {
-  top: 1px;
-  outline: none;
-  -webkit-box-shadow: none;
-  box-shadow: none;
+  border-bottom-color: #95a5a6;
+  @include box-shadow(inset 0 -2px #95a5a6);
 }
 
 /* #Asbestos Flat Button
 ==================================================*/
 .asbestos-flat-button {
-  position: relative;
-  vertical-align: top;
-  width: 100%;
-  height: 60px;
-  padding: 0;
-  font-size: 22px;
-  color:white;
-  text-align: center;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+  @extend .custom-button;
   background: #7f8c8d;
-  border: 0;
-  border-bottom: 2px solid #6d7b7c;
-  cursor: pointer;
-  -webkit-box-shadow: inset 0 -2px #6d7b7c;
-  box-shadow: inset 0 -2px #6d7b7c;
-}
-.asbestos-flat-button:active {
-  top: 1px;
-  outline: none;
-  -webkit-box-shadow: none;
-  box-shadow: none;
-}
-
-/* #Asbestos Flat Button
-==================================================*/
-.asbestos-flat-button {
-  position: relative;
-  vertical-align: top;
-  width: 100%;
-  height: 60px;
-  padding: 0;
-  font-size: 22px;
-  color:white;
-  text-align: center;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
-  background: #7f8c8d;
-  border: 0;
-  border-bottom: 2px solid #6d7b7c;
-  cursor: pointer;
-  -webkit-box-shadow: inset 0 -2px #6d7b7c;
-  box-shadow: inset 0 -2px #6d7b7c;
-}
-.asbestos-flat-button:active {
-  top: 1px;
-  outline: none;
-  -webkit-box-shadow: none;
-  box-shadow: none;
+  border-bottom-color: #6d7b7c;
+  @include box-shadow(inset 0 -2px #6d7b7c);
 }
 
 /* #Graphite Flat Button
 ==================================================*/
 .graphite-flat-button {
-  position: relative;
-  vertical-align: top;
-  width: 100%;
-  height: 60px;
-  padding: 0;
-  font-size: 22px;
-  color:white;
-  text-align: center;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+  @extend .custom-button;
   background: #454545;
-  border: 0;
-  border-bottom: 2px solid #2f2e2e;
-  cursor: pointer;
-  -webkit-box-shadow: inset 0 -2px #2f2e2e;
-  box-shadow: inset 0 -2px #2f2e2e;
-}
-.graphite-flat-button:active {
-  top: 1px;
-  outline: none;
-  -webkit-box-shadow: none;
-  box-shadow: none;
+  border-bottom-color: #2f2e2e;
+  @include box-shadow(inset 0 -2px #2f2e2e);
 }
