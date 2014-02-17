@@ -12,6 +12,12 @@ Simple Template Layouts
 	# Install bower components http://bower.io/
 	bower install
 
+	# Go to production dir
+	cd production
+	
+	# Run localhost server
+	server
+
 ### Use
 
 	Sublime
