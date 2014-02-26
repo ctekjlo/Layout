@@ -1,3 +1,6 @@
+/* Defaults
+   -------------------------------------------------------------------------------------------------------------------*/
+
 body {
   margin: 0; padding: 0;
   background: #fafafa;
@@ -6,19 +9,33 @@ body {
   font-weight: 300;
 }
 
+
+/* Typography
+   -------------------------------------------------------------------------------------------------------------------*/
+
 h1, h2, h3, h4, h5, h6 {
   text-align: center;
   font-weight: normal;
 }
 
-p {}
+p {
 
-#container {
-  margin: 20px auto; padding: 0 5%;
-  width: 80%;
-  max-width: 800px;
 }
 
-.text-center {
-  text-align: center;
+
+/* Typography
+   -------------------------------------------------------------------------------------------------------------------*/
+
+.text-left    { text-align: left; }
+.text-right   { text-align: right; }
+.text-center  { text-align: center; }
+
+
+/* Layout
+   -------------------------------------------------------------------------------------------------------------------*/
+
+#container {
+  margin: 2em auto; padding: 0 5%;
+  width: 80%;
+  max-width: 800px;
 }
