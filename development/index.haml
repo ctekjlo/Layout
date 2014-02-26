@@ -20,7 +20,7 @@
   %link{:href => "assets/bower_components/normalize-css/normalize.css", :rel => "stylesheet", :type => 'text/css'}/
   %link{:href => "assets/css/styles.css", :rel => "stylesheet", :type => 'text/css'}/
 
-  %script{:src => "assets/js/libs.min.js"}
+  %script{:src => "assets/js/modernizr.custom.min.js"}
 %body
   #container
     %h1 Simple Template Layouts
@@ -69,21 +69,6 @@
       %button.asbestos-flat-button ButtonName
       %button.graphite-flat-button ButtonName
 
-
-  /
-    Libs
-    %script{:src => "assets/js/modernizr.custom.02435.min.js"}
-    %script{:src => "assets/js/jquery-2.1.0.min.js"}
-    %script{:src => "assets/js/jquery-migrate-1.2.1.min.js"}
-
-  /
-    CDN
-    %script{:src => "https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"}
-    %script{:src => "https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"}
-    %script{:src => "https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.5.2/underscore-min.js"}
-
-  / Scripts
-  %script{:src => "assets/js/plugins.min.js"}
-  %script{:src => "assets/js/scripts.min.js"}
+  %script{:src => "assets/bower_components/requirejs/require.js", "data-main" => "assets/js/main.min", :defer => 'defer'}
 
 </html>
