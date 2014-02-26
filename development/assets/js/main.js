@@ -10,7 +10,9 @@ require.config({
       // https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.5.2/underscore-min.js
       'jquery': 'bower_components/jQuery/dist/jquery.min'
     , 'jquery-migrate': 'bower_components/jquery-migrate/jquery-migrate.min'
-    , 'klass': 'bower_components/klass/klass.min'
+
+    , "underscore": "bower_components/underscore-amd/underscore-min"
+    , 'backbone': "bower_components/backbone-amd/backbone-min"
 
     , 'app': 'js/app.min'
   },
@@ -23,6 +25,12 @@ require.config({
             'jquery'
           ]
       }
+    , 'backbone': {
+          deps: [
+            'underscore'
+          ]
+        , exports: 'Backbone'
+      },
   }
 })(['app'], function (App) {
 

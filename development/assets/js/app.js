@@ -1,11 +1,15 @@
 define([
-    'klass'
+    'backbone'
   , 'jquery-migrate'
-], function (klass) {
+], function () {
 
-  return klass({
+  //
+
+  return Backbone.Model.extend({
+
       appName: 'My App 0.0.1'
-    , initialize: function() {
+
+    , constructor: function() {
 
         var that = this;
 
