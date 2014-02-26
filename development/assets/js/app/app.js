@@ -1,31 +1,39 @@
 define([
-    "klass"
-  , "jquery-migrate"
-], function (klass) {
+    'backbone'
+  , 'jquery-migrate'
+], function () {
 
-  return klass({
-      appName: 'My App 0.0.1'
-    , initialize: function() {
+  //
+
+  return Backbone.Model.extend({
+
+      appName: 'My App'
+    , appVersion: '0.0.1'
+
+    , constructor: function() {
 
         var that = this;
 
-        console.log("App Init: "+that.appName);
+        that.createEvents();
+
+        console.log('App Init: '+that.appName+" "+that.appVersion);
 
       }
+    , createEvents: function() {
+
+        var that = this;
+
+        // Click on Button
+        $('body').on('click touchstart', 'button.button-1', function(event) {
+
+          var $elem = $(this);
+
+         console.log('Click: '+$elem.attr('class'));
+         // console.log(event);
+
+        });
+
+    }
   });
 
 });
-
- // Code here
-  // console.log('Default Template Layout Init');
-
-  // Click on Button
-  // $('body').on('click touchstart', 'button.button-1', function(event) {
-
-  //   var that = this
-  //     , $elm = $(that);
-
-  //  console.log("Click");
-  //  // console.log(event);
-
-  // });
