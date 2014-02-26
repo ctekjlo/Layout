@@ -1,733 +1,733 @@
 {
-	"auto_complete":
-	{
-		"selected_items":
-		[
-			[
-				"help",
-				"help	help"
-			],
-			[
-				"to",
-				"toUpperCase  (function)"
-			],
-			[
-				"impor",
-				"!important  (value)"
-			],
-			[
-				"for",
-				"for	for (…) {…}"
-			],
-			[
-				"list",
-				"list-style"
-			],
-			[
-				"if",
-				"if	if …"
-			],
-			[
-				"class",
-				"class	class"
-			],
-			[
-				"foreach",
-				"foreach	foreach"
-			],
-			[
-				"pf",
-				"pf	index"
-			],
-			[
-				"file",
-				"filename  (variable)"
-			],
-			[
-				"real",
-				"realpath  (function)"
-			],
-			[
-				"va",
-				"values  (variable)"
-			],
-			[
-				"me",
-				"memory_get_usage"
-			],
-			[
-				"con",
-				"constant"
-			],
-			[
-				"cle",
-				"clear"
-			],
-			[
-				"pu",
-				"public"
-			],
-			[
-				"mb",
-				"mb_stristr"
-			]
-		]
-	},
-	"buffers":
-	[
-	],
-	"build_system": "Packages/User/PHPLint.sublime-build",
-	"command_palette":
-	{
-		"height": 375.0,
-		"selected_items":
-		[
-			[
-				"install",
-				"Package Control: Install Package"
-			],
-			[
-				"csspri",
-				"CSSPrimer: Prime CSS from HTML file"
-			],
-			[
-				"ins",
-				"Package Control: Install Package"
-			],
-			[
-				"pack",
-				"Package Control: Remove Package"
-			],
-			[
-				"disable",
-				"Package Control: Disable Package"
-			],
-			[
-				"",
-				"BracketHighlighter: Swap Brackets"
-			],
-			[
-				"update",
-				"Package Control: Upgrade/Overwrite All Packages"
-			],
-			[
-				"packeage",
-				"Package Control: Upgrade Package"
-			],
-			[
-				"baraket",
-				"BracketHighlighter: Swap Brackets"
-			],
-			[
-				"pack list",
-				"Package Control: List Packages"
-			],
-			[
-				"tabs",
-				"View: Toggle Tabs"
-			],
-			[
-				"tas",
-				"Tasks: New document"
-			],
-			[
-				"gist",
-				"Gist: Open Gist"
-			],
-			[
-				"syhtml",
-				"Set Syntax: HTML"
-			],
-			[
-				"synhtml",
-				"Set Syntax: HTML"
-			],
-			[
-				"Snippet: ",
-				"Snippet: Function"
-			],
-			[
-				"syn java",
-				"Set Syntax: JavaScript"
-			],
-			[
-				"packlist",
-				"Package Control: List Packages"
-			],
-			[
-				"disa",
-				"Package Control: Disable Package"
-			],
-			[
-				"gi",
-				"Gist: Insert Gist"
-			],
-			[
-				"sni",
-				"Snippet: html"
-			],
-			[
-				"gis",
-				"Gist: Open Gist"
-			],
-			[
-				"pack di",
-				"Package Control: Disable Package"
-			],
-			[
-				"php",
-				"PHPUnit: Run"
-			],
-			[
-				"inst",
-				"Package Control: Install Package"
-			],
-			[
-				"pack e",
-				"Package Control: Enable Package"
-			],
-			[
-				"snipp",
-				"Snippet: html"
-			],
-			[
-				"giin",
-				"Gist: Insert Gist"
-			],
-			[
-				"pac li",
-				"Package Control: List Packages"
-			],
-			[
-				"pa di",
-				"Package Control: Disable Package"
-			],
-			[
-				"gice",
-				"Gist: Create Private Gist"
-			],
-			[
-				"gis in",
-				"Gist: Insert Gist"
-			],
-			[
-				"remove",
-				"Package Control: Remove Package"
-			],
-			[
-				"t",
-				"Theme Tweaker: Toggle Tweak Mode"
-			],
-			[
-				"insta",
-				"Package Control: Install Package"
-			],
-			[
-				"remo",
-				"Package Control: Remove Package"
-			],
-			[
-				"Package Control: ",
-				"Package Control: List Packages"
-			],
-			[
-				"instal",
-				"Package Control: Install Package"
-			]
-		],
-		"width": 588.0
-	},
-	"console":
-	{
-		"height": 278.0,
-		"history":
-		[
-			"claer",
-			"git status",
-			"git commit -am=\"first\"",
-			"git add --all",
-			"git status",
-			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
-		]
-	},
-	"distraction_free":
-	{
-		"menu_visible": true,
-		"show_minimap": false,
-		"show_open_files": false,
-		"show_tabs": false,
-		"side_bar_visible": false,
-		"status_bar_visible": false
-	},
-	"file_history":
-	[
-		"/Users/arturafonin/Desktop/jquery-tags-2/development/index.haml",
-		"/Users/arturafonin/Desktop/jquery-tags-2/development/assets/scss/elements/_colors.scss",
-		"/Users/arturafonin/Desktop/jquery-tags-2/development/assets/js/scripts.js",
-		"/Users/arturafonin/Desktop/jquery-tags-2/layout.sublime-project",
-		"/Users/arturafonin/Desktop/jquery-tags-2/development/assets/js/libs.js",
-		"/Users/arturafonin/Desktop/jquery-tags-2/development/assets/scss/elements/_base.scss",
-		"/Users/arturafonin/Desktop/jquery-tags-2/development/assets/scss/styles.scss",
-		"/Users/arturafonin/Desktop/jquery-html5-sortable-blocks/development/assets/scss/styles.scss",
-		"/Users/arturafonin/Desktop/jquery-tags-2/development/assets/scss/elements/form.scss",
-		"/Users/arturafonin/Desktop/Test/layout.sublime-project",
-		"/Users/arturafonin/Desktop/Test/layout.sublime-workspace",
-		"/Users/arturafonin/Desktop/Test/production/index.html",
-		"/Users/arturafonin/Desktop/Test/development/index.haml",
-		"/Users/arturafonin/Sites/roomble.layout.dev.ru/haml/index.haml",
-		"/Users/arturafonin/Desktop/Test/index.html",
-		"/Users/arturafonin/Desktop/Layout/assets/js/scripts.js",
-		"/Users/arturafonin/Desktop/Layout/assets/scss/styles.scss",
-		"/Users/arturafonin/Desktop/Layout/index.html",
-		"/Users/arturafonin/Desktop/Layout/.gitignore",
-		"/Users/arturafonin/Desktop/Layout/README",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/javascript/snip.sublime-snippet",
-		"/Users/arturafonin/Desktop/Layout/assets/css/styles.css",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/CSScomb/Default.sublime-keymap",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/Alignment/Default (OSX).sublime-keymap",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/CSScomb.sublime-settings",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Base File.sublime-settings",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/CSScomb/CSScomb.sublime-settings",
-		"/Users/arturafonin/Desktop/Layout/index.css",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/PlainTasks/messages/Tutorial.todo",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/LiveStyle/LiveStyle.sublime-settings",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/javascript/$help.sublime-snippet",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/javascript/.upper.sublime-snippet",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/javascript/.lower.sublime-snippet",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/javascript/.each.sublime-snippet",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/javascript/$each.sublime-snippet",
-		"/Users/arturafonin/Desktop/Layout/assets/js/main.js",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/javascript/help.sublime-snippet",
-		"/Users/arturafonin/Desktop/Layout/assets/bower_components/normalize-css/README.md",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/html5.sublime-snippet",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/javascript/f.sublime-snippet",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/javascript/l.sublime-snippet",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/javascript/;.sublime-snippet",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/javascript/func.sublime-snippet",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/javascript/log.sublime-snippet",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/javascript/$$.sublime-snippet",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/err.sublime-snippet",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/snip.sublime-snippet",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/phphelp.sublime-snippet",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/fpros.sublime-snippet",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/fps.sublime-snippet",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/fpro.sublime-snippet",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/fpris.sublime-snippet",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/fpri.sublime-snippet",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/ifissetcount.sublime-snippet",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/ifisset.sublime-snippet",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/ifcount.sublime-snippet",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/if!isset.sublime-snippet",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/f.sublime-snippet",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/foreach.sublime-snippet",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/cls.sublime-snippet",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/clss.sublime-snippet",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/fore.sublime-snippet",
-		"/Users/arturafonin/Sites/test.dev.ru/sort.php",
-		"/Users/arturafonin/Sites/parser.dev.ru/Libs/classes/Helper/Text.php",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/LiveReload.sublime-settings",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/LiveReload/LiveReload.sublime-settings",
-		"/Users/arturafonin/Desktop/Layout/index.php",
-		"/Users/arturafonin/.osx",
-		"/Applications/.Wineskin2",
-		"/Applications/.localized",
-		"/Applications/.DS_Store",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/javascript/$click.sublime-snippet",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/javascript/$on.sublime-snippet",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/javascript/lower.sublime-snippet",
-		"/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/javascript/$ready.sublime-snippet",
-		"/Users/arturafonin/Desktop/Layout/assets/bower_components/normalize-css/normalize.css",
-		"/Users/arturafonin/Sites/simple.roomble.com/sass/pages/_news-item.scss",
-		"/Users/arturafonin/Sites/simple.roomble.com/sass/blocks/_publication.scss",
-		"/Users/arturafonin/Sites/simple.roomble.com/scripts/main.js",
-		"/Users/arturafonin/Sites/simple.roomble.com/scripts/app.js",
-		"/Users/arturafonin/Sites/simple.roomble.com/sass/elements/_form.scss",
-		"/Users/arturafonin/Sites/simple.roomble.com/sass/blocks/_masonry.scss",
-		"/Users/arturafonin/Sites/simple.roomble.com/sass/_styles.scss",
-		"/Users/arturafonin/Sites/simple.roomble.com/haml/digest-2.haml",
-		"/Users/arturafonin/Sites/simple.roomble.com/haml/digest-1.haml",
-		"/Users/arturafonin/Sites/simple.roomble.com/haml/digest.haml",
-		"/Users/arturafonin/Sites/simple.roomble.com/scripts/vendor/packery/js/packery.js",
-		"/Users/arturafonin/Sites/simple.roomble.com/ajax/2.html",
-		"/Users/arturafonin/Sites/simple.roomble.com/ajax/7.html",
-		"/Users/arturafonin/Sites/simple.roomble.com/ajax/10.html",
-		"/Users/arturafonin/Sites/simple.roomble.com/ajax/9.html",
-		"/Users/arturafonin/Sites/simple.roomble.com/ajax/8.html",
-		"/Users/arturafonin/Sites/simple.roomble.com/ajax/6.html",
-		"/Users/arturafonin/Sites/simple.roomble.com/ajax/5.html",
-		"/Users/arturafonin/Sites/simple.roomble.com/ajax/4.html",
-		"/Users/arturafonin/Sites/simple.roomble.com/ajax/3.html",
-		"/Users/arturafonin/Sites/simple.roomble.com/sass/blocks/_digest-filter.scss",
-		"/Users/arturafonin/Sites/simple.roomble.com/scripts/app2.js",
-		"/Users/arturafonin/Sites/simple.roomble.com/scripts/main.js.backup",
-		"/Users/arturafonin/Sites/simple.roomble.com/scripts/app-old.js",
-		"/Users/arturafonin/Sites/simple.roomble.com/.gitignore",
-		"/Users/arturafonin/.extra",
-		"/Users/arturafonin/Sites/simple.roomble.com/.git/config",
-		"/Users/arturafonin/Sites/simple.roomble.com/scripts/plugins/ajax.js",
-		"/Users/arturafonin/Sites/simple.roomble.com/scripts/vendor/foundation/foundation.alerts.js",
-		"/Users/arturafonin/Sites/simple.roomble.com/scripts/myapp.js",
-		"/Users/arturafonin/Desktop/demo/js.base/index.php",
-		"/Users/arturafonin/Sites/simple.roomble.com/haml/editor.haml",
-		"/Users/arturafonin/Sites/simple.roomble.com/haml/publication.haml",
-		"/Users/arturafonin/Sites/simple.roomble.com/haml/news.haml",
-		"/Users/arturafonin/Desktop/demo/js.base/base.js",
-		"/Users/arturafonin/Sites/simple.roomble.com/ajax/ajax.php",
-		"/Users/arturafonin/Desktop/demo/jquery.ajax/index.php",
-		"/Users/arturafonin/Desktop/demo/jquery.ajax/ajax.php",
-		"/Users/arturafonin/Sites/simple.roomble.com/scripts/plugins/jquery.imageList.js",
-		"/Users/arturafonin/Sites/simple.roomble.com/scripts/plugins/droparea.js",
-		"/Users/arturafonin/Sites/simple.roomble.com/scripts/plugins/droparea.list.js",
-		"/Users/arturafonin/Sites/simple.roomble.com/scripts/plugins/json2.js",
-		"/Users/arturafonin/Sites/simple.roomble.com/scripts/plugins/json.js",
-		"/Users/arturafonin/Sites/simple.roomble.com/scripts/plugins/JSON/json.js",
-		"/Users/arturafonin/Sites/simple.roomble.com/scripts/plugins/JSON/json2.js",
-		"/Users/arturafonin/Sites/simple.roomble.com/scripts/plugins/JSON/json_parse_state.js",
-		"/Users/arturafonin/Sites/simple.roomble.com/scripts/plugins/JSON/cycle.js"
-	],
-	"find":
-	{
-		"height": 24.0
-	},
-	"find_in_files":
-	{
-		"height": 93.0,
-		"where_history":
-		[
-			"",
-			"filename"
-		]
-	},
-	"find_state":
-	{
-		"case_sensitive": false,
-		"find_history":
-		[
-			"selector",
-			"click",
-			"max_window",
-			"array_max_in_range",
-			"key",
-			"Thursday",
-			"array",
-			"arr",
-			"j ] = $arr[ $j ] + $arr[ $j + 1 ];\n				$arr[ $j + 1 ] = $arr[ $j ] - $arr[ $j + 1 ];\n				$arr[ $j ]",
-			"num3",
-			"2",
-			"\n//",
-			"size",
-			"hiDgh",
-			"user",
-			"anima",
-			"scree",
-			"key",
-			"doc",
-			"docs",
-			"c",
-			"event",
-			"selector",
-			"click",
-			"tjjis",
-			"sibling",
-			"children",
-			"styles",
-			"ul.",
-			"green",
-			"jopa",
-			"<jopa></jopa>",
-			"styles",
-			"css",
-			"page-icons",
-			"@include icons-sprite(\"view\");",
-			"connected",
-			"connected home",
-			"Система Smart connected home",
-			"donetext",
-			"    ",
-			"loadingText",
-			"loadingImg",
-			"itemSelector",
-			"nextSelector",
-			"navSelector",
-			"dataType",
-			"itemSelector",
-			"columnWidth",
-			"isResizable",
-			"masonry",
-			"plugin_editor",
-			"(\"/",
-			"Instance",
-			"F",
-			"foundation",
-			"'foundation/foundation'",
-			"exports",
-			"foundation/foundation",
-			"../",
-			"'foundation'",
-			"../",
-			"loader",
-			"click",
-			"img",
-			"showItem",
-			"result",
-			"image-gallery-result",
-			" $('#",
-			"image-gallery-result",
-			"html",
-			"init",
-			"myJSONText",
-			"name",
-			"progress",
-			"thumb",
-			"spot",
-			"areas",
-			"clear",
-			"thumb",
-			"th",
-			"thumb",
-			"thum",
-			"progress",
-			"instructions",
-			"droparea",
-			"multiple",
-			"Add/Edit Link",
-			"testEvent",
-			"focus",
-			"tags",
-			"form",
-			".border",
-			"252525",
-			".bor",
-			"d7d7d7",
-			"masonry",
-			"9fb522",
-			"footer",
-			"1.08.2013",
-			"111111",
-			"alert",
-			"_resetLayout",
-			"appended",
-			"infinitescroll",
-			"Modernizr",
-			"столо",
-			"fff",
-			"uppercase",
-			"underline",
-			"content",
-			"header",
-			"site-header",
-			"container",
-			"15px",
-			"$row",
-			"block",
-			"components",
-			"vendor",
-			"mass",
-			"masonry",
-			"ajax(",
-			"beginAjax",
-			"ajax({",
-			"ajax",
-			"debag",
-			"container",
-			"RESET"
-		],
-		"highlight": true,
-		"in_selection": false,
-		"preserve_case": false,
-		"regex": false,
-		"replace_history":
-		[
-			"'Foundation'",
-			"Foundation",
-			"",
-			"'../foundation/foundation'",
-			"",
-			"01.08.2013",
-			"",
-			"item",
-			" ) {",
-			") {",
-			"if ( ",
-			"FALSE",
-			"TRUE",
-			"	",
-			" ",
-			"	",
-			"'",
-			"$region_last_key",
-			"$region_arr"
-		],
-		"reverse": false,
-		"show_context": true,
-		"use_buffer2": true,
-		"whole_word": false,
-		"wrap": false
-	},
-	"groups":
-	[
-		{
-			"sheets":
-			[
-			]
-		}
-	],
-	"incremental_find":
-	{
-		"height": 24.0
-	},
-	"input":
-	{
-		"height": 31.0
-	},
-	"layout":
-	{
-		"cells":
-		[
-			[
-				0,
-				0,
-				1,
-				1
-			]
-		],
-		"cols":
-		[
-			0.0,
-			1.0
-		],
-		"rows":
-		[
-			0.0,
-			1.0
-		]
-	},
-	"menu_visible": true,
-	"output.exec":
-	{
-		"height": 0.0
-	},
-	"output.find_results":
-	{
-		"height": 0.0
-	},
-	"output.unsaved_changes":
-	{
-		"height": 253.0
-	},
-	"project": "layout.sublime-project",
-	"replace":
-	{
-		"height": 44.0
-	},
-	"save_all_on_build": true,
-	"select_file":
-	{
-		"height": 0.0,
-		"selected_items":
-		[
-			[
-				"style",
-				"assets/scss/styles.scss"
-			],
-			[
-				"sty",
-				"assets/scss/styles.scss"
-			],
-			[
-				"inde",
-				"index.html"
-			],
-			[
-				"main",
-				"assets/js/main.js"
-			],
-			[
-				"scrip",
-				"~/Library/Application Support/Sublime Text 3/Packages/User/Snippets/javascript/$help.sublime-snippet"
-			],
-			[
-				"index",
-				"index.html"
-			],
-			[
-				"mai",
-				"assets/js/main.js"
-			],
-			[
-				"fun",
-				"sass/assets/functions.scss"
-			],
-			[
-				"publi",
-				"haml/publication.haml"
-			],
-			[
-				"cache",
-				"Libs/classes/Helper/Cache.php"
-			],
-			[
-				"json",
-				"json.php"
-			],
-			[
-				"header",
-				"include/header.php"
-			],
-			[
-				"",
-				"include/footer.php"
-			],
-			[
-				"pub",
-				"publication.html"
-			],
-			[
-				"parse",
-				"Libs/classes/parse.php"
-			],
-			[
-				"html",
-				"Libs/classes/Helper/HTML.php"
-			],
-			[
-				"image",
-				"lib/image.php"
-			]
-		],
-		"width": 0.0
-	},
-	"select_project":
-	{
-		"height": 500.0,
-		"selected_items":
-		[
-		],
-		"width": 380.0
-	},
-	"select_symbol":
-	{
-		"height": 0.0,
-		"selected_items":
-		[
-		],
-		"width": 0.0
-	},
-	"settings":
-	{
-	},
-	"show_minimap": true,
-	"show_open_files": true,
-	"show_tabs": true,
-	"side_bar_visible": true,
-	"side_bar_width": 308.0,
-	"status_bar_visible": true,
-	"template_settings":
-	{
-	}
+  "auto_complete":
+  {
+    "selected_items":
+    [
+      [
+        "help",
+        "help help"
+      ],
+      [
+        "to",
+        "toUpperCase  (function)"
+      ],
+      [
+        "impor",
+        "!important  (value)"
+      ],
+      [
+        "for",
+        "for  for (…) {…}"
+      ],
+      [
+        "list",
+        "list-style"
+      ],
+      [
+        "if",
+        "if if …"
+      ],
+      [
+        "class",
+        "class  class"
+      ],
+      [
+        "foreach",
+        "foreach  foreach"
+      ],
+      [
+        "pf",
+        "pf index"
+      ],
+      [
+        "file",
+        "filename  (variable)"
+      ],
+      [
+        "real",
+        "realpath  (function)"
+      ],
+      [
+        "va",
+        "values  (variable)"
+      ],
+      [
+        "me",
+        "memory_get_usage"
+      ],
+      [
+        "con",
+        "constant"
+      ],
+      [
+        "cle",
+        "clear"
+      ],
+      [
+        "pu",
+        "public"
+      ],
+      [
+        "mb",
+        "mb_stristr"
+      ]
+    ]
+  },
+  "buffers":
+  [
+  ],
+  "build_system": "Packages/User/PHPLint.sublime-build",
+  "command_palette":
+  {
+    "height": 375.0,
+    "selected_items":
+    [
+      [
+        "install",
+        "Package Control: Install Package"
+      ],
+      [
+        "csspri",
+        "CSSPrimer: Prime CSS from HTML file"
+      ],
+      [
+        "ins",
+        "Package Control: Install Package"
+      ],
+      [
+        "pack",
+        "Package Control: Remove Package"
+      ],
+      [
+        "disable",
+        "Package Control: Disable Package"
+      ],
+      [
+        "",
+        "BracketHighlighter: Swap Brackets"
+      ],
+      [
+        "update",
+        "Package Control: Upgrade/Overwrite All Packages"
+      ],
+      [
+        "packeage",
+        "Package Control: Upgrade Package"
+      ],
+      [
+        "baraket",
+        "BracketHighlighter: Swap Brackets"
+      ],
+      [
+        "pack list",
+        "Package Control: List Packages"
+      ],
+      [
+        "tabs",
+        "View: Toggle Tabs"
+      ],
+      [
+        "tas",
+        "Tasks: New document"
+      ],
+      [
+        "gist",
+        "Gist: Open Gist"
+      ],
+      [
+        "syhtml",
+        "Set Syntax: HTML"
+      ],
+      [
+        "synhtml",
+        "Set Syntax: HTML"
+      ],
+      [
+        "Snippet: ",
+        "Snippet: Function"
+      ],
+      [
+        "syn java",
+        "Set Syntax: JavaScript"
+      ],
+      [
+        "packlist",
+        "Package Control: List Packages"
+      ],
+      [
+        "disa",
+        "Package Control: Disable Package"
+      ],
+      [
+        "gi",
+        "Gist: Insert Gist"
+      ],
+      [
+        "sni",
+        "Snippet: html"
+      ],
+      [
+        "gis",
+        "Gist: Open Gist"
+      ],
+      [
+        "pack di",
+        "Package Control: Disable Package"
+      ],
+      [
+        "php",
+        "PHPUnit: Run"
+      ],
+      [
+        "inst",
+        "Package Control: Install Package"
+      ],
+      [
+        "pack e",
+        "Package Control: Enable Package"
+      ],
+      [
+        "snipp",
+        "Snippet: html"
+      ],
+      [
+        "giin",
+        "Gist: Insert Gist"
+      ],
+      [
+        "pac li",
+        "Package Control: List Packages"
+      ],
+      [
+        "pa di",
+        "Package Control: Disable Package"
+      ],
+      [
+        "gice",
+        "Gist: Create Private Gist"
+      ],
+      [
+        "gis in",
+        "Gist: Insert Gist"
+      ],
+      [
+        "remove",
+        "Package Control: Remove Package"
+      ],
+      [
+        "t",
+        "Theme Tweaker: Toggle Tweak Mode"
+      ],
+      [
+        "insta",
+        "Package Control: Install Package"
+      ],
+      [
+        "remo",
+        "Package Control: Remove Package"
+      ],
+      [
+        "Package Control: ",
+        "Package Control: List Packages"
+      ],
+      [
+        "instal",
+        "Package Control: Install Package"
+      ]
+    ],
+    "width": 588.0
+  },
+  "console":
+  {
+    "height": 278.0,
+    "history":
+    [
+      "claer",
+      "git status",
+      "git commit -am=\"first\"",
+      "git add --all",
+      "git status",
+      "import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+    ]
+  },
+  "distraction_free":
+  {
+    "menu_visible": true,
+    "show_minimap": false,
+    "show_open_files": false,
+    "show_tabs": false,
+    "side_bar_visible": false,
+    "status_bar_visible": false
+  },
+  "file_history":
+  [
+    "/Users/arturafonin/Desktop/jquery-tags-2/development/index.haml",
+    "/Users/arturafonin/Desktop/jquery-tags-2/development/assets/scss/elements/_colors.scss",
+    "/Users/arturafonin/Desktop/jquery-tags-2/development/assets/js/scripts.js",
+    "/Users/arturafonin/Desktop/jquery-tags-2/layout.sublime-project",
+    "/Users/arturafonin/Desktop/jquery-tags-2/development/assets/js/libs.js",
+    "/Users/arturafonin/Desktop/jquery-tags-2/development/assets/scss/elements/_base.scss",
+    "/Users/arturafonin/Desktop/jquery-tags-2/development/assets/scss/styles.scss",
+    "/Users/arturafonin/Desktop/jquery-html5-sortable-blocks/development/assets/scss/styles.scss",
+    "/Users/arturafonin/Desktop/jquery-tags-2/development/assets/scss/elements/form.scss",
+    "/Users/arturafonin/Desktop/Test/layout.sublime-project",
+    "/Users/arturafonin/Desktop/Test/layout.sublime-workspace",
+    "/Users/arturafonin/Desktop/Test/production/index.html",
+    "/Users/arturafonin/Desktop/Test/development/index.haml",
+    "/Users/arturafonin/Sites/roomble.layout.dev.ru/haml/index.haml",
+    "/Users/arturafonin/Desktop/Test/index.html",
+    "/Users/arturafonin/Desktop/Layout/assets/js/scripts.js",
+    "/Users/arturafonin/Desktop/Layout/assets/scss/styles.scss",
+    "/Users/arturafonin/Desktop/Layout/index.html",
+    "/Users/arturafonin/Desktop/Layout/.gitignore",
+    "/Users/arturafonin/Desktop/Layout/README",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/javascript/snip.sublime-snippet",
+    "/Users/arturafonin/Desktop/Layout/assets/css/styles.css",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/CSScomb/Default.sublime-keymap",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/Alignment/Default (OSX).sublime-keymap",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/CSScomb.sublime-settings",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Base File.sublime-settings",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/CSScomb/CSScomb.sublime-settings",
+    "/Users/arturafonin/Desktop/Layout/index.css",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/PlainTasks/messages/Tutorial.todo",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/LiveStyle/LiveStyle.sublime-settings",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/javascript/$help.sublime-snippet",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/javascript/.upper.sublime-snippet",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/javascript/.lower.sublime-snippet",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/javascript/.each.sublime-snippet",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/javascript/$each.sublime-snippet",
+    "/Users/arturafonin/Desktop/Layout/assets/js/main.js",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/javascript/help.sublime-snippet",
+    "/Users/arturafonin/Desktop/Layout/assets/bower_components/normalize-css/README.md",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/html5.sublime-snippet",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/javascript/f.sublime-snippet",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/javascript/l.sublime-snippet",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/javascript/;.sublime-snippet",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/javascript/func.sublime-snippet",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/javascript/log.sublime-snippet",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/javascript/$$.sublime-snippet",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/err.sublime-snippet",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/snip.sublime-snippet",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/phphelp.sublime-snippet",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/fpros.sublime-snippet",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/fps.sublime-snippet",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/fpro.sublime-snippet",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/fpris.sublime-snippet",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/fpri.sublime-snippet",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/ifissetcount.sublime-snippet",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/ifisset.sublime-snippet",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/ifcount.sublime-snippet",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/if!isset.sublime-snippet",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/f.sublime-snippet",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/foreach.sublime-snippet",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/cls.sublime-snippet",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/clss.sublime-snippet",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/fore.sublime-snippet",
+    "/Users/arturafonin/Sites/test.dev.ru/sort.php",
+    "/Users/arturafonin/Sites/parser.dev.ru/Libs/classes/Helper/Text.php",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/LiveReload.sublime-settings",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/LiveReload/LiveReload.sublime-settings",
+    "/Users/arturafonin/Desktop/Layout/index.php",
+    "/Users/arturafonin/.osx",
+    "/Applications/.Wineskin2",
+    "/Applications/.localized",
+    "/Applications/.DS_Store",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/javascript/$click.sublime-snippet",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/javascript/$on.sublime-snippet",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/javascript/lower.sublime-snippet",
+    "/Users/arturafonin/Library/Application Support/Sublime Text 3/Packages/User/Snippets/javascript/$ready.sublime-snippet",
+    "/Users/arturafonin/Desktop/Layout/assets/bower_components/normalize-css/normalize.css",
+    "/Users/arturafonin/Sites/simple.roomble.com/sass/pages/_news-item.scss",
+    "/Users/arturafonin/Sites/simple.roomble.com/sass/blocks/_publication.scss",
+    "/Users/arturafonin/Sites/simple.roomble.com/scripts/main.js",
+    "/Users/arturafonin/Sites/simple.roomble.com/scripts/app.js",
+    "/Users/arturafonin/Sites/simple.roomble.com/sass/elements/_form.scss",
+    "/Users/arturafonin/Sites/simple.roomble.com/sass/blocks/_masonry.scss",
+    "/Users/arturafonin/Sites/simple.roomble.com/sass/_styles.scss",
+    "/Users/arturafonin/Sites/simple.roomble.com/haml/digest-2.haml",
+    "/Users/arturafonin/Sites/simple.roomble.com/haml/digest-1.haml",
+    "/Users/arturafonin/Sites/simple.roomble.com/haml/digest.haml",
+    "/Users/arturafonin/Sites/simple.roomble.com/scripts/vendor/packery/js/packery.js",
+    "/Users/arturafonin/Sites/simple.roomble.com/ajax/2.html",
+    "/Users/arturafonin/Sites/simple.roomble.com/ajax/7.html",
+    "/Users/arturafonin/Sites/simple.roomble.com/ajax/10.html",
+    "/Users/arturafonin/Sites/simple.roomble.com/ajax/9.html",
+    "/Users/arturafonin/Sites/simple.roomble.com/ajax/8.html",
+    "/Users/arturafonin/Sites/simple.roomble.com/ajax/6.html",
+    "/Users/arturafonin/Sites/simple.roomble.com/ajax/5.html",
+    "/Users/arturafonin/Sites/simple.roomble.com/ajax/4.html",
+    "/Users/arturafonin/Sites/simple.roomble.com/ajax/3.html",
+    "/Users/arturafonin/Sites/simple.roomble.com/sass/blocks/_digest-filter.scss",
+    "/Users/arturafonin/Sites/simple.roomble.com/scripts/app2.js",
+    "/Users/arturafonin/Sites/simple.roomble.com/scripts/main.js.backup",
+    "/Users/arturafonin/Sites/simple.roomble.com/scripts/app-old.js",
+    "/Users/arturafonin/Sites/simple.roomble.com/.gitignore",
+    "/Users/arturafonin/.extra",
+    "/Users/arturafonin/Sites/simple.roomble.com/.git/config",
+    "/Users/arturafonin/Sites/simple.roomble.com/scripts/plugins/ajax.js",
+    "/Users/arturafonin/Sites/simple.roomble.com/scripts/vendor/foundation/foundation.alerts.js",
+    "/Users/arturafonin/Sites/simple.roomble.com/scripts/myapp.js",
+    "/Users/arturafonin/Desktop/demo/js.base/index.php",
+    "/Users/arturafonin/Sites/simple.roomble.com/haml/editor.haml",
+    "/Users/arturafonin/Sites/simple.roomble.com/haml/publication.haml",
+    "/Users/arturafonin/Sites/simple.roomble.com/haml/news.haml",
+    "/Users/arturafonin/Desktop/demo/js.base/base.js",
+    "/Users/arturafonin/Sites/simple.roomble.com/ajax/ajax.php",
+    "/Users/arturafonin/Desktop/demo/jquery.ajax/index.php",
+    "/Users/arturafonin/Desktop/demo/jquery.ajax/ajax.php",
+    "/Users/arturafonin/Sites/simple.roomble.com/scripts/plugins/jquery.imageList.js",
+    "/Users/arturafonin/Sites/simple.roomble.com/scripts/plugins/droparea.js",
+    "/Users/arturafonin/Sites/simple.roomble.com/scripts/plugins/droparea.list.js",
+    "/Users/arturafonin/Sites/simple.roomble.com/scripts/plugins/json2.js",
+    "/Users/arturafonin/Sites/simple.roomble.com/scripts/plugins/json.js",
+    "/Users/arturafonin/Sites/simple.roomble.com/scripts/plugins/JSON/json.js",
+    "/Users/arturafonin/Sites/simple.roomble.com/scripts/plugins/JSON/json2.js",
+    "/Users/arturafonin/Sites/simple.roomble.com/scripts/plugins/JSON/json_parse_state.js",
+    "/Users/arturafonin/Sites/simple.roomble.com/scripts/plugins/JSON/cycle.js"
+  ],
+  "find":
+  {
+    "height": 24.0
+  },
+  "find_in_files":
+  {
+    "height": 93.0,
+    "where_history":
+    [
+      "",
+      "filename"
+    ]
+  },
+  "find_state":
+  {
+    "case_sensitive": false,
+    "find_history":
+    [
+      "selector",
+      "click",
+      "max_window",
+      "array_max_in_range",
+      "key",
+      "Thursday",
+      "array",
+      "arr",
+      "j ] = $arr[ $j ] + $arr[ $j + 1 ];\n       $arr[ $j + 1 ] = $arr[ $j ] - $arr[ $j + 1 ];\n       $arr[ $j ]",
+      "num3",
+      "2",
+      "\n//",
+      "size",
+      "hiDgh",
+      "user",
+      "anima",
+      "scree",
+      "key",
+      "doc",
+      "docs",
+      "c",
+      "event",
+      "selector",
+      "click",
+      "tjjis",
+      "sibling",
+      "children",
+      "styles",
+      "ul.",
+      "green",
+      "jopa",
+      "<jopa></jopa>",
+      "styles",
+      "css",
+      "page-icons",
+      "@include icons-sprite(\"view\");",
+      "connected",
+      "connected home",
+      "Система Smart connected home",
+      "donetext",
+      "    ",
+      "loadingText",
+      "loadingImg",
+      "itemSelector",
+      "nextSelector",
+      "navSelector",
+      "dataType",
+      "itemSelector",
+      "columnWidth",
+      "isResizable",
+      "masonry",
+      "plugin_editor",
+      "(\"/",
+      "Instance",
+      "F",
+      "foundation",
+      "'foundation/foundation'",
+      "exports",
+      "foundation/foundation",
+      "../",
+      "'foundation'",
+      "../",
+      "loader",
+      "click",
+      "img",
+      "showItem",
+      "result",
+      "image-gallery-result",
+      " $('#",
+      "image-gallery-result",
+      "html",
+      "init",
+      "myJSONText",
+      "name",
+      "progress",
+      "thumb",
+      "spot",
+      "areas",
+      "clear",
+      "thumb",
+      "th",
+      "thumb",
+      "thum",
+      "progress",
+      "instructions",
+      "droparea",
+      "multiple",
+      "Add/Edit Link",
+      "testEvent",
+      "focus",
+      "tags",
+      "form",
+      ".border",
+      "252525",
+      ".bor",
+      "d7d7d7",
+      "masonry",
+      "9fb522",
+      "footer",
+      "1.08.2013",
+      "111111",
+      "alert",
+      "_resetLayout",
+      "appended",
+      "infinitescroll",
+      "Modernizr",
+      "столо",
+      "fff",
+      "uppercase",
+      "underline",
+      "content",
+      "header",
+      "site-header",
+      "container",
+      "15px",
+      "$row",
+      "block",
+      "components",
+      "vendor",
+      "mass",
+      "masonry",
+      "ajax(",
+      "beginAjax",
+      "ajax({",
+      "ajax",
+      "debag",
+      "container",
+      "RESET"
+    ],
+    "highlight": true,
+    "in_selection": false,
+    "preserve_case": false,
+    "regex": false,
+    "replace_history":
+    [
+      "'Foundation'",
+      "Foundation",
+      "",
+      "'../foundation/foundation'",
+      "",
+      "01.08.2013",
+      "",
+      "item",
+      " ) {",
+      ") {",
+      "if ( ",
+      "FALSE",
+      "TRUE",
+      " ",
+      " ",
+      " ",
+      "'",
+      "$region_last_key",
+      "$region_arr"
+    ],
+    "reverse": false,
+    "show_context": true,
+    "use_buffer2": true,
+    "whole_word": false,
+    "wrap": false
+  },
+  "groups":
+  [
+    {
+      "sheets":
+      [
+      ]
+    }
+  ],
+  "incremental_find":
+  {
+    "height": 24.0
+  },
+  "input":
+  {
+    "height": 31.0
+  },
+  "layout":
+  {
+    "cells":
+    [
+      [
+        0,
+        0,
+        1,
+        1
+      ]
+    ],
+    "cols":
+    [
+      0.0,
+      1.0
+    ],
+    "rows":
+    [
+      0.0,
+      1.0
+    ]
+  },
+  "menu_visible": true,
+  "output.exec":
+  {
+    "height": 0.0
+  },
+  "output.find_results":
+  {
+    "height": 0.0
+  },
+  "output.unsaved_changes":
+  {
+    "height": 253.0
+  },
+  "project": "layout.sublime-project",
+  "replace":
+  {
+    "height": 44.0
+  },
+  "save_all_on_build": true,
+  "select_file":
+  {
+    "height": 0.0,
+    "selected_items":
+    [
+      [
+        "style",
+        "assets/scss/styles.scss"
+      ],
+      [
+        "sty",
+        "assets/scss/styles.scss"
+      ],
+      [
+        "inde",
+        "index.html"
+      ],
+      [
+        "main",
+        "assets/js/main.js"
+      ],
+      [
+        "scrip",
+        "~/Library/Application Support/Sublime Text 3/Packages/User/Snippets/javascript/$help.sublime-snippet"
+      ],
+      [
+        "index",
+        "index.html"
+      ],
+      [
+        "mai",
+        "assets/js/main.js"
+      ],
+      [
+        "fun",
+        "sass/assets/functions.scss"
+      ],
+      [
+        "publi",
+        "haml/publication.haml"
+      ],
+      [
+        "cache",
+        "Libs/classes/Helper/Cache.php"
+      ],
+      [
+        "json",
+        "json.php"
+      ],
+      [
+        "header",
+        "include/header.php"
+      ],
+      [
+        "",
+        "include/footer.php"
+      ],
+      [
+        "pub",
+        "publication.html"
+      ],
+      [
+        "parse",
+        "Libs/classes/parse.php"
+      ],
+      [
+        "html",
+        "Libs/classes/Helper/HTML.php"
+      ],
+      [
+        "image",
+        "lib/image.php"
+      ]
+    ],
+    "width": 0.0
+  },
+  "select_project":
+  {
+    "height": 500.0,
+    "selected_items":
+    [
+    ],
+    "width": 380.0
+  },
+  "select_symbol":
+  {
+    "height": 0.0,
+    "selected_items":
+    [
+    ],
+    "width": 0.0
+  },
+  "settings":
+  {
+  },
+  "show_minimap": true,
+  "show_open_files": true,
+  "show_tabs": true,
+  "side_bar_visible": true,
+  "side_bar_width": 308.0,
+  "status_bar_visible": true,
+  "template_settings":
+  {
+  }
 }

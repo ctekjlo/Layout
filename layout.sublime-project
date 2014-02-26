@@ -1,16 +1,16 @@
 {
-	"folders":
-	[
-		{
-			"follow_symlinks": true,
-			"path": "development",
-			"file_exclude_patterns": [
-				"assets/js/libs.js",
-				"assets/js/plugins.js"
-			],
-			"folder_exclude_patterns": [
-				"assets/js/libs"
-			]
-		}
-	]
+  "folders":
+  [
+    {
+      "follow_symlinks": true,
+      "path": "development",
+      "file_exclude_patterns": [
+        "assets/js/libs.js",
+        "assets/js/plugins.js"
+      ],
+      "folder_exclude_patterns": [
+        "assets/js/libs"
+      ]
+    }
+  ]
 }
