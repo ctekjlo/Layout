@@ -1,0 +1,37 @@
+/* Clearfix / 05.02.2014
+ *
+ * Code Samples:
+ *
+   * .cf, .clearfix
+   * @include cf();
+   * @include clearfix();
+ *
+   * .clear
+   * @include clear();
+ *
+   -------------------------------------------------------------------------------------------------------------------*/
+// @include pie-clearfix();
+@mixin cf {
+  @include has-layout;
+  &:before,
+  &:after {
+    display: table;
+    line-height: 0px;
+    content: "";
+  }
+  &:after {
+    clear: both;
+  }
+}
+
+@mixin clear {
+  clear: both;
+  display: block;
+  overflow: hidden;
+  visibility: hidden;
+  width: 0; height:0;
+}
+
+.cf, .clearfix { @include clearfix; }
+
+.clear { @include clear; }

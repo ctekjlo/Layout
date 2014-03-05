@@ -1,0 +1,56 @@
+// Use: @include display-table;
+@mixin display-table {
+  display: table;
+  table-layout: fixed;
+  width: 100%;
+  word-wrap: break-word;
+  -dt-display: table;
+}
+
+// Use: @include display-table-cell;
+@mixin display-table-cell {
+  display: table-cell;
+  width: auto;
+  border-collapse: collapse;
+  vertical-align: middle;
+  overflow: hidden;
+  -dt-display: table-cell;
+}
+
+// .table     { display: table; }
+// .table-row  { display: table-row; }
+// .table-cell { display: table-cell; }
+
+.tbl {
+
+  @include display-table;
+
+  .tbl-row {
+
+    @include display-table-cell;
+
+    /* w-10..100 */
+    @for $i from 1 to 11 {
+
+      $width: $i * 10;
+      $width_small: $width - 5;
+
+      &.w-#{$width_small} {
+
+        width: ($width_small)*1%;
+
+      }
+
+      &.w-#{$width} {
+
+        width: ($width)*1%;
+
+      }
+
+    }
+
+  }
+
+}
+
+

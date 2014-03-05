@@ -1,0 +1,51 @@
+@mixin _position($position, $args) {
+
+  $offsets: top right bottom left;
+
+  @each $o in $offsets {
+
+    $i: index($args, $o);
+
+    @if $i
+    and $i + 1 <= length($args)
+    and type-of( nth($args, $i + 1) ) == number {
+
+      #{$o}: nth($args, $i + 1);
+
+    }
+
+  }
+
+  position: $position;
+
+}
+
+@mixin absolute ($args: "") {
+
+  @include _position(absolute, $args);
+
+}
+
+@mixin relative ($args: "") {
+
+  // @if $args != null {
+  //  $args: top 0px left 0px;
+  // }
+
+  @include _position(relative, $args);
+
+}
+
+@mixin fixed($args: "") {
+
+  @include _position(fixed, $args);
+
+}
+
+
+.relative {
+
+  @include relative(top 0px left 0px);
+  z-index: 0; *zoom: 1;
+
+}

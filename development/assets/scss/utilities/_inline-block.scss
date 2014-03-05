@@ -1,0 +1,33 @@
+/* Inline / 05.02.2014
+ *
+ * Code Samples:
+ *
+     * .cf, .clearfix
+     * @include cf();
+     * @include clearfix();
+ *
+     * .clear
+     * @include clear();
+ *
+   -------------------------------------------------------------------------------------------------------------------*/
+
+// @mixin inline-block {
+//     display: -moz-inline-stack;
+//     display: inline-block;
+//     vertical-align: middle; // vertical-align: baseline;
+//     zoom: 1;
+//     *display: inline;
+//     *vertical-align: auto;
+// }
+
+@mixin inline {
+  margin: 0; padding: 0;
+  @include relative;
+  > * {
+    @include inline-block;
+  }
+}
+
+.inline {
+  @include inline;
+}

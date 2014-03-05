@@ -1,0 +1,18 @@
+// @include image-optimize();
+// https://developer.mozilla.org/en-US/docs/Web/CSS/image-rendering
+@mixin image-optimize () {
+
+  image-rendering: optimizeSpeed;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: -o-crisp-edges;
+  image-rendering: -webkit-optimize-contrast;
+  image-rendering: crisp-edges;
+  -ms-interpolation-mode: bicubic;
+
+}
+
+.image-optimize {
+
+  @include image-optimize();
+
+}

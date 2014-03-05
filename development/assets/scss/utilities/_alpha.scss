@@ -1,0 +1,20 @@
+// @include _opacity ( .5 );
+@mixin alpha ($value) {
+
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=#{$value*100})";
+  filter: alpha(opacity=#{$value*100});
+  -moz-opacity: #{$value};
+  -khtml-opacity: #{$value};
+  opacity: #{$value};
+
+}
+
+@for $i from 0 to 11 {
+
+  .alpha-#{$i} {
+
+    @include alpha ( $i/10 );
+
+  }
+
+}

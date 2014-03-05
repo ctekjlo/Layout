@@ -1,0 +1,38 @@
+// Use: @include line-height(500px);
+@mixin line-height ( $value ) {
+
+  line-height: #{$value};
+  height: #{$value};
+
+}
+
+
+
+
+// Use: @include max-height(500px);
+@mixin max-height ( $size ) {
+
+  height: $size;
+  max-height: $size;
+
+}
+
+// Use: @include min-height(500px);
+@mixin min-height ( $size ) {
+
+  min-height: $size;
+  height: auto !important;
+  height: $size;
+
+}
+
+
+
+
+// Use: @include max-height(500px);
+@mixin max-width ( $size ) {
+
+  max-width: $size;
+  width: "expression(document.body.clientWidth > #{$size} ? '#{$size}' : 'auto')";
+
+}
