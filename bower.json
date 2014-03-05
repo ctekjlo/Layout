@@ -21,7 +21,7 @@
     "requirejs": "~2.1.11",
     "jQuery": "~2.1.0",
     "jquery-migrate": "~1.2.1",
-    "underscore-amd": "~1.1.0",
-    "backbone-amd": "~1.5.2"
+    "underscore-amd": "*",
+    "backbone-amd": "*"
   }
 }
