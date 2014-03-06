@@ -27,4 +27,4 @@ Simple Template Layouts
 
 ### Versions
 
-Current version: 0.0.7
+Current version: 0.0.9
