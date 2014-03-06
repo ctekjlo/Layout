@@ -22,18 +22,23 @@
 
   %script{:src => "assets/js/modernizr.custom.min.js"}
 %body
-  #container
-    %h1 Simple Template Layouts
+  .site-container
+    %h1 Simple Template Layout
     %p.text-center Project based on HAML, SCSS
     %p.text-center
-      Version: 0.0.7
+      Version: 0.0.8
       %br/
       Email: ctekjlo@gmail.com
 
     / Html code here
-    %button.sun-flower-button.button-1 Click Button
 
-    / DEMO
+    %p.text-center
+      %button.sun-flower-button.button-1 Click Button
+
+    /
+      Demo
+
+      .border
 
     /
       Form
@@ -44,30 +49,32 @@
         %p
           %label Lastname
           %input{ :type => 'text' }
+        %p.text-right
+          %input{:type => 'submit'}
 
     /
       Buttons
-    %button.sun-flower-button ButtonName
-    %button.orange-flat-button ButtonName
-    %button.carrot-flat-button ButtonName
-    %button.pumpkin-flat-button ButtonName
-    %button.alizarin-flat-button ButtonName
-    %button.pomegranate-flat-button ButtonName
-    %button.turquoise-flat-button ButtonName
-    %button.green-sea-flat-button ButtonName
-    %button.emerald-flat-button ButtonName
-    %button.nephritis-flat-button ButtonName
-    %button.peter-river-flat-button ButtonName
-    %button.belize-hole-flat-button ButtonName
-    %button.amethyst-flat-button ButtonName
-    %button.wisteria-flat-button ButtonName
-    %button.wet-asphalt-flat-button ButtonName
-    %button.midnight-blue-flat-button ButtonName
-    %button.clouds-flat-button ButtonName
-    %button.silver-flat-button ButtonName
-    %button.concrete-flat-button ButtonName
-    %button.asbestos-flat-button ButtonName
-    %button.graphite-flat-button ButtonName
+      %button.sun-flower-button ButtonName
+      %button.orange-flat-button ButtonName
+      %button.carrot-flat-button ButtonName
+      %button.pumpkin-flat-button ButtonName
+      %button.alizarin-flat-button ButtonName
+      %button.pomegranate-flat-button ButtonName
+      %button.turquoise-flat-button ButtonName
+      %button.green-sea-flat-button ButtonName
+      %button.emerald-flat-button ButtonName
+      %button.nephritis-flat-button ButtonName
+      %button.peter-river-flat-button ButtonName
+      %button.belize-hole-flat-button ButtonName
+      %button.amethyst-flat-button ButtonName
+      %button.wisteria-flat-button ButtonName
+      %button.wet-asphalt-flat-button ButtonName
+      %button.midnight-blue-flat-button ButtonName
+      %button.clouds-flat-button ButtonName
+      %button.silver-flat-button ButtonName
+      %button.concrete-flat-button ButtonName
+      %button.asbestos-flat-button ButtonName
+      %button.graphite-flat-button ButtonName
 
   %script{:src => "assets/bower_components/requirejs/require.js", "data-main" => "assets/js/main.min", :defer => 'defer'}
 

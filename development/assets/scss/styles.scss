@@ -1,7 +1,5 @@
 @charset "utf-8";
 
-@import "elements/colors";
-
 @import
   "compass"
 , "compass/css3/pie"
@@ -9,14 +7,14 @@
 
 , 'utilities/include'
 
+, "elements/colors"
+
+, "config"
+
 , "elements/base"
 , "elements/form"
 , "elements/buttons";
 
 
-
-
-
-/*  Style Code  */
-
-
+/* Style Code
+   -------------------------------------------------------------------------------------------------------------------*/

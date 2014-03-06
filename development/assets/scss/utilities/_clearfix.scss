@@ -32,6 +32,6 @@
   width: 0; height:0;
 }
 
-.cf, .clearfix { @include clearfix; }
+.cf, .clearfix { @include cf; }
 
 .clear { @include clear; }

@@ -1,41 +1,86 @@
 /* Defaults
    -------------------------------------------------------------------------------------------------------------------*/
+* { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
 
 body {
   margin: 0; padding: 0;
-  background: #fafafa;
-  color: #333;
-  font: 16px/1.5em "Droid Serif", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font: #{$font-size}/1.5em $font;
   font-weight: 300;
+  color: $font-color;
+  background: $background-color;
 }
 
 
 /* Typography
    -------------------------------------------------------------------------------------------------------------------*/
-
 h1, h2, h3, h4, h5, h6 {
   text-align: center;
   font-weight: normal;
 }
 
 p {
+  margin-bottom: $margin-bottom;
+}
 
+a {
+  color: $primary-color;
+  text-decoration: none;
+  &:hover {
+    color: shade($primary-color, 10%);
+  }
+}
+
+strong {
+  font-weight: 600;
+}
+
+code {
+  margin: 0 2px;
+  padding: 0px 5px;
+  border: 1px solid #ddd;
+  background-color: #f8f8f8;
+  border-radius: 3px;
 }
 
 
-/* Typography
+/* Helper
    -------------------------------------------------------------------------------------------------------------------*/
-
 .text-left    { text-align: left; }
 .text-right   { text-align: right; }
 .text-center  { text-align: center; }
 
+.border {
+  margin: 0 0 $margin-bottom;
+  height: 1px;
+  border: $border-width $border-style $border-color;
+}
+
 
 /* Layout
    -------------------------------------------------------------------------------------------------------------------*/
-
-#container {
+.site-container {
   margin: 2em auto; padding: 0 5%;
   width: 80%;
-  max-width: 800px;
+  max-width: 1000px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
