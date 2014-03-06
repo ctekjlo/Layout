@@ -3,22 +3,29 @@ define([
   , 'jquery-migrate'
 ], function () {
 
-  //
-
   return Backbone.Model.extend({
 
-      appName: 'My App'
+      appName: 'Simple Template Layout App'
     , appVersion: '0.0.1'
 
+    , debug: true
+
+    // Init
     , constructor: function() {
 
         var that = this;
 
         that.createEvents();
 
-        console.log('App Init: '+that.appName+" "+that.appVersion);
+        if ( that.debug ) {
+
+          console.log('App Init: '+that.appName+" "+that.appVersion);
+
+        }
 
       }
+
+    // Init Events
     , createEvents: function() {
 
         var that = this;
@@ -26,10 +33,15 @@ define([
         // Click on Button
         $('body').on('click touchstart', 'button.button-1', function(event) {
 
-          var $elem = $(this);
+          var ths = this
+            , $elem = $(ths);
 
-         console.log('Click: '+$elem.attr('class'));
-         // console.log(event);
+          if ( that.debug ) {
+
+            console.log('Click: Element class "'+$elem.attr('class')+'"');
+            console.log(event);
+
+          }
 
         });
 
