@@ -14,17 +14,17 @@
   %title Simple Template Layouts
 
   / Fonts
-  %link{:href => "http://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic", :rel => 'stylesheet', :type => 'text/css'}/
-  %link{:href => "http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&subset=latin,cyrillic-ext,latin-ext,cyrillic", :rel => 'stylesheet', :type => 'text/css'}/
+  %link{:href => "http://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic", :rel => "stylesheet", :type => "text/css"}/
+  %link{:href => "http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&subset=latin,cyrillic-ext,latin-ext,cyrillic", :rel => "stylesheet", :type => "text/css"}/
 
   / Styles
-  %link{:href => "assets/bower_components/normalize-css/normalize.css", :rel => "stylesheet", :type => 'text/css'}/
-  %link{:href => "assets/css/styles.css", :rel => "stylesheet", :type => 'text/css'}/
+  %link{:href => "assets/bower_components/normalize-css/normalize.css", :rel => "stylesheet", :type => "text/css"}/
+  %link{:href => "assets/css/styles.css", :rel => "stylesheet", :type => "text/css"}/
 
   / Icons
-  %link{:href => "assets/bower_components/ionicons/css/ionicons.min.css", :rel => "stylesheet", :type => 'text/css'}/
+  %link{:href => "assets/bower_components/ionicons/css/ionicons.min.css", :rel => "stylesheet", :type => "text/css"}/
 
-  %script{:src => "assets/bower_components/modernizr/modernizr.js", :defer => 'defer'}
+  %script{:src => "assets/bower_components/modernizr/modernizr.js", :defer => "defer"}
 %body
   .site-container
     %h1 Simple Template Layout
@@ -46,15 +46,15 @@
 
     /
       Form
-      %form{:action => '', :method => 'post'}
+      %form{:action => "", :method => "post"}
         %p
           %label Name
-          %input{ :type => 'text', :value => 'Name' }
+          %input{ :type => "text", :value => "Name" }
         %p
           %label Lastname
-          %input{ :type => 'text' }
+          %input{ :type => "text" }
         %p.text-right
-          %input{:type => 'submit'}
+          %input{:type => "submit"}
 
     /
       Buttons
@@ -80,6 +80,6 @@
       %button.asbestos-flat-button ButtonName
       %button.graphite-flat-button ButtonName
 
-  %script{:src => "assets/bower_components/requirejs/require.js", "data-main" => "assets/js/main.min", :defer => 'defer'}
+  %script{:src => "assets/bower_components/requirejs/require.js", "data-main" => "assets/js/main.min", :defer => "defer"}
 
 </html>
