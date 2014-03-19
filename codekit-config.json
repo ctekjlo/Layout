@@ -33,17 +33,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
-    "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/backbone.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/backbone.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/backbone.png",
-      "initialSize" : 20380,
-      "fileType" : 8192
-    },
     "\/production\/assets\/bower_components\/backbone-amd\/backbone-min.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -54,6 +43,17 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/assets\/js\/backbone-min.min.js",
       "fileType" : 64
+    },
+    "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/backbone.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/backbone.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/backbone.png",
+      "initialSize" : 20380,
+      "fileType" : 8192
     },
     "\/production\/assets\/bower_components\/jQuery\/src\/selector-native.js" : {
       "ignoreWasSetByUser" : 0,
@@ -108,17 +108,6 @@
       "outputAbbreviatedPath" : "\/production\/assets\/js\/pnum.min.js",
       "fileType" : 64
     },
-    "\/development\/assets\/js\/libs\/modernizr.custom.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/development\/assets\/js\/libs\/modernizr.custom.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/assets\/js\/modernizr.custom.min.js",
-      "fileType" : 64
-    },
     "\/production\/assets\/bower_components\/jquery-migrate\/jquery-migrate.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -152,14 +141,16 @@
       "initialSize" : 2108,
       "fileType" : 8192
     },
-    "\/production\/assets\/bower_components\/backbone-amd\/docs\/todos.html" : {
+    "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/seatgeek.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/backbone-amd\/docs\/todos.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/seatgeek.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/seatgeek.png",
+      "initialSize" : 271958,
+      "fileType" : 8192
     },
     "\/production\/assets\/bower_components\/jQuery\/src\/ajax\/script.js" : {
       "ignoreWasSetByUser" : 0,
@@ -172,16 +163,14 @@
       "outputAbbreviatedPath" : "\/production\/assets\/js\/script.min.js",
       "fileType" : 64
     },
-    "\/production\/assets\/bower_components\/backbone-amd\/backbone.js" : {
+    "\/production\/assets\/bower_components\/backbone-amd\/docs\/todos.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/backbone-amd\/backbone.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/assets\/js\/backbone.min.js",
-      "fileType" : 64
+      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/backbone-amd\/docs\/todos.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/production\/assets\/bower_components\/jQuery\/src\/attributes\/classes.js" : {
       "ignoreWasSetByUser" : 0,
@@ -192,6 +181,17 @@
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/assets\/js\/classes.min.js",
+      "fileType" : 64
+    },
+    "\/production\/assets\/bower_components\/backbone-amd\/backbone.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/backbone-amd\/backbone.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/assets\/js\/backbone.min.js",
       "fileType" : 64
     },
     "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/inkling.png" : {
@@ -216,27 +216,17 @@
       "initialSize" : 143238,
       "fileType" : 8192
     },
-    "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/seatgeek.png" : {
+    "\/development\/assets\/scss\/utilities\/_hidden.scss" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/seatgeek.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/seatgeek.png",
-      "initialSize" : 271958,
-      "fileType" : 8192
-    },
-    "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/todos.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/todos.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/todos.png",
-      "initialSize" : 41820,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/development\/assets\/scss\/utilities\/_hidden.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/production\/assets\/css\/_hidden.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
     "\/production\/assets\/bower_components\/jQuery\/src\/event\/support.js" : {
       "ignoreWasSetByUser" : 0,
@@ -259,6 +249,18 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/assets\/js\/support.min.js",
       "fileType" : 64
+    },
+    "\/development\/assets\/scss\/utilities\/_ease.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/development\/assets\/scss\/utilities\/_ease.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/production\/assets\/css\/_ease.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
     "\/production\/assets\/bower_components\/jQuery\/src\/css\/defaultDisplay.js" : {
       "ignoreWasSetByUser" : 0,
@@ -310,6 +312,17 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/assets\/js\/push.min.js",
       "fileType" : 64
+    },
+    "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/todos.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/todos.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/todos.png",
+      "initialSize" : 41820,
+      "fileType" : 8192
     },
     "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/quartz.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -542,26 +555,16 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
-    "\/config.rb" : {
+    "\/production\/assets\/bower_components\/underscore-amd\/underscore-min.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/config.rb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 32768
-    },
-    "\/development\/assets\/scss\/utilities\/_fonts.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/development\/assets\/scss\/utilities\/_fonts.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/production\/assets\/css\/_fonts.css",
-      "fileType" : 4,
-      "debugStyle" : 0
+      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/underscore-amd\/underscore-min.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/assets\/js\/underscore-min.min.js",
+      "fileType" : 64
     },
     "\/production\/assets\/bower_components\/jQuery\/src\/css\/var\/cssExpand.js" : {
       "ignoreWasSetByUser" : 0,
@@ -585,15 +588,24 @@
       "initialSize" : 130766,
       "fileType" : 8192
     },
-    "\/development\/assets\/scss\/utilities\/_form.scss" : {
+    "\/config.rb" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/config.rb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 32768
+    },
+    "\/development\/assets\/scss\/utilities\/_fonts.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/development\/assets\/scss\/utilities\/_form.scss",
+      "inputAbbreviatedPath" : "\/development\/assets\/scss\/utilities\/_fonts.scss",
       "outputStyle" : 0,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/production\/assets\/css\/_form.css",
+      "outputAbbreviatedPath" : "\/production\/assets\/css\/_fonts.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -619,16 +631,17 @@
       "outputAbbreviatedPath" : "\/production\/assets\/js\/rneedsContext.min.js",
       "fileType" : 64
     },
-    "\/production\/assets\/bower_components\/underscore-amd\/underscore-min.js" : {
+    "\/development\/assets\/scss\/utilities\/_form.scss" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/underscore-amd\/underscore-min.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/assets\/js\/underscore-min.min.js",
-      "fileType" : 64
+      "inputAbbreviatedPath" : "\/development\/assets\/scss\/utilities\/_form.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/production\/assets\/css\/_form.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
     "\/development\/assets\/scss\/utilities\/ui\/_overlay.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -677,17 +690,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/production\/assets\/bower_components\/backbone-amd\/test\/vendor\/json2.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/backbone-amd\/test\/vendor\/json2.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/assets\/js\/json2.min.js",
-      "fileType" : 64
-    },
     "\/production\/assets\/bower_components\/jQuery\/src\/attributes.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -697,6 +699,17 @@
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/assets\/js\/attributes.min.js",
+      "fileType" : 64
+    },
+    "\/production\/assets\/bower_components\/backbone-amd\/test\/vendor\/json2.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/backbone-amd\/test\/vendor\/json2.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/assets\/js\/json2.min.js",
       "fileType" : 64
     },
     "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/bitbucket.png" : {
@@ -721,6 +734,15 @@
       "outputAbbreviatedPath" : "\/production\/assets\/js\/events.min.js",
       "fileType" : 64
     },
+    "\/production\/assets\/bower_components\/underscore-amd\/docs\/docco.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/underscore-amd\/docs\/docco.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
     "\/development\/assets\/scss\/utilities\/_prefix.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -732,15 +754,6 @@
       "outputAbbreviatedPath" : "\/production\/assets\/css\/_prefix.css",
       "fileType" : 4,
       "debugStyle" : 0
-    },
-    "\/production\/assets\/bower_components\/underscore-amd\/docs\/docco.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/underscore-amd\/docs\/docco.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
     },
     "\/production\/assets\/bower_components\/jQuery\/src\/event.js" : {
       "ignoreWasSetByUser" : 0,
@@ -819,16 +832,16 @@
       "outputAbbreviatedPath" : "\/production\/assets\/js\/data.min.js",
       "fileType" : 64
     },
-    "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/tilemill.png" : {
+    "\/production\/assets\/bower_components\/jQuery\/src\/css\/curCSS.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/tilemill.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/tilemill.png",
-      "initialSize" : 152798,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/jQuery\/src\/css\/curCSS.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/assets\/js\/curCSS.min.js",
+      "fileType" : 64
     },
     "\/production\/assets\/bower_components\/jQuery\/src\/traversing.js" : {
       "ignoreWasSetByUser" : 0,
@@ -852,28 +865,6 @@
       "initialSize" : 102536,
       "fileType" : 8192
     },
-    "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/artsy.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/artsy.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/artsy.png",
-      "initialSize" : 225145,
-      "fileType" : 8192
-    },
-    "\/production\/assets\/bower_components\/jQuery\/src\/css\/curCSS.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/jQuery\/src\/css\/curCSS.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/assets\/js\/curCSS.min.js",
-      "fileType" : 64
-    },
     "\/development\/assets\/js\/app\/app.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -884,6 +875,28 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/assets\/js\/app.min.js",
       "fileType" : 64
+    },
+    "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/tilemill.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/tilemill.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/tilemill.png",
+      "initialSize" : 152798,
+      "fileType" : 8192
+    },
+    "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/artsy.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/artsy.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/artsy.png",
+      "initialSize" : 225145,
+      "fileType" : 8192
     },
     "\/production\/assets\/bower_components\/underscore-amd\/docs\/images\/underscore.png" : {
       "ignoreWasSetByUser" : 0,
@@ -905,17 +918,6 @@
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/assets\/js\/qunit.min.js",
-      "fileType" : 64
-    },
-    "\/production\/assets\/bower_components\/jQuery\/src\/deprecated.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/jQuery\/src\/deprecated.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/assets\/js\/deprecated.min.js",
       "fileType" : 64
     },
     "\/development\/assets\/scss\/styles.scss" : {
@@ -953,15 +955,26 @@
       "initialSize" : 283085,
       "fileType" : 8192
     },
-    "\/production\/assets\/bower_components\/backbone-amd\/examples\/todos\/todos.js" : {
+    "\/production\/assets\/bower_components\/jQuery\/src\/deprecated.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/backbone-amd\/examples\/todos\/todos.js",
+      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/jQuery\/src\/deprecated.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/assets\/js\/todos.min.js",
+      "outputAbbreviatedPath" : "\/production\/assets\/js\/deprecated.min.js",
+      "fileType" : 64
+    },
+    "\/production\/assets\/bower_components\/jQuery\/src\/offset.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/jQuery\/src\/offset.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/assets\/js\/offset.min.js",
       "fileType" : 64
     },
     "\/production\/assets\/bower_components\/requirejs\/require.js" : {
@@ -995,15 +1008,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
-    "\/production\/assets\/bower_components\/jQuery\/src\/offset.js" : {
+    "\/production\/assets\/bower_components\/backbone-amd\/examples\/todos\/todos.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/jQuery\/src\/offset.js",
+      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/backbone-amd\/examples\/todos\/todos.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/assets\/js\/offset.min.js",
+      "outputAbbreviatedPath" : "\/production\/assets\/js\/todos.min.js",
       "fileType" : 64
     },
     "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/baroque.jpg" : {
@@ -1093,17 +1106,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/production\/assets\/bower_components\/jQuery\/src\/sizzle\/dist\/sizzle.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/jQuery\/src\/sizzle\/dist\/sizzle.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/assets\/js\/sizzle.min.js",
-      "fileType" : 64
-    },
     "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/hulu.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1114,6 +1116,17 @@
       "outputAbbreviatedPath" : "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/hulu.png",
       "initialSize" : 293554,
       "fileType" : 8192
+    },
+    "\/production\/assets\/bower_components\/jQuery\/src\/sizzle\/dist\/sizzle.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/jQuery\/src\/sizzle\/dist\/sizzle.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/assets\/js\/sizzle.min.js",
+      "fileType" : 64
     },
     "\/production\/assets\/bower_components\/jQuery\/src\/intro.js" : {
       "ignoreWasSetByUser" : 0,
@@ -1170,17 +1183,6 @@
       "initialSize" : 85727,
       "fileType" : 8192
     },
-    "\/production\/assets\/bower_components\/jQuery\/src\/core\/access.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/jQuery\/src\/core\/access.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/assets\/js\/access.min.js",
-      "fileType" : 64
-    },
     "\/production\/assets\/bower_components\/backbone-amd\/test\/model.coffee" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1192,6 +1194,17 @@
       "outputAbbreviatedPath" : "\/production\/assets\/bower_components\/backbone-amd\/test\/model.js",
       "outputStyle" : 0,
       "fileType" : 32
+    },
+    "\/production\/assets\/bower_components\/jQuery\/src\/core\/access.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/jQuery\/src\/core\/access.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/assets\/js\/access.min.js",
+      "fileType" : 64
     },
     "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/jolicloud.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -1321,17 +1334,6 @@
       "outputAbbreviatedPath" : "\/production\/assets\/js\/underscore.min.js",
       "fileType" : 64
     },
-    "\/production\/assets\/bower_components\/jQuery\/dist\/jquery.min.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/jQuery\/dist\/jquery.min.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/assets\/js\/jquery.min.min.js",
-      "fileType" : 64
-    },
     "\/production\/assets\/bower_components\/jQuery\/src\/callbacks.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1343,15 +1345,15 @@
       "outputAbbreviatedPath" : "\/production\/assets\/js\/callbacks.min.js",
       "fileType" : 64
     },
-    "\/production\/assets\/bower_components\/jQuery\/src\/manipulation\/var\/rcheckableType.js" : {
+    "\/production\/assets\/bower_components\/jQuery\/dist\/jquery.min.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/jQuery\/src\/manipulation\/var\/rcheckableType.js",
+      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/jQuery\/dist\/jquery.min.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/assets\/js\/rcheckableType.min.js",
+      "outputAbbreviatedPath" : "\/production\/assets\/js\/jquery.min.min.js",
       "fileType" : 64
     },
     "\/production\/assets\/bower_components\/jQuery\/src\/var\/trim.js" : {
@@ -1365,16 +1367,14 @@
       "outputAbbreviatedPath" : "\/production\/assets\/js\/trim.min.js",
       "fileType" : 64
     },
-    "\/production\/assets\/bower_components\/jQuery\/src\/data\/var\/data_priv.js" : {
+    "\/production\/assets\/bower_components\/underscore-amd\/index.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/jQuery\/src\/data\/var\/data_priv.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/assets\/js\/data_priv.min.js",
-      "fileType" : 64
+      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/underscore-amd\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/production\/assets\/bower_components\/jQuery\/src\/effects\/Tween.js" : {
       "ignoreWasSetByUser" : 0,
@@ -1385,6 +1385,17 @@
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/assets\/js\/Tween.min.js",
+      "fileType" : 64
+    },
+    "\/production\/assets\/bower_components\/jQuery\/src\/data\/var\/data_priv.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/jQuery\/src\/data\/var\/data_priv.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/assets\/js\/data_priv.min.js",
       "fileType" : 64
     },
     "\/production\/assets\/bower_components\/backbone-amd\/test\/vendor\/underscore.js" : {
@@ -1409,26 +1420,6 @@
       "initialSize" : 1235,
       "fileType" : 8192
     },
-    "\/production\/assets\/bower_components\/jQuery\/src\/queue.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/jQuery\/src\/queue.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/assets\/js\/queue.min.js",
-      "fileType" : 64
-    },
-    "\/production\/index.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/production\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/production\/assets\/bower_components\/jQuery\/src\/css\/var\/getStyles.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1440,14 +1431,36 @@
       "outputAbbreviatedPath" : "\/production\/assets\/js\/getStyles.min.js",
       "fileType" : 64
     },
-    "\/production\/assets\/bower_components\/underscore-amd\/index.html" : {
+    "\/production\/index.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/production\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/production\/assets\/bower_components\/jQuery\/src\/queue.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/underscore-amd\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/jQuery\/src\/queue.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/assets\/js\/queue.min.js",
+      "fileType" : 64
+    },
+    "\/production\/assets\/bower_components\/jQuery\/src\/manipulation\/var\/rcheckableType.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/jQuery\/src\/manipulation\/var\/rcheckableType.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/assets\/js\/rcheckableType.min.js",
+      "fileType" : 64
     },
     "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/usa-today.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1590,17 +1603,16 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/development\/assets\/scss\/utilities\/_display-table.scss" : {
+    "\/production\/assets\/bower_components\/underscore-amd\/test\/vendor\/jslitmus.js" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/development\/assets\/scss\/utilities\/_display-table.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/production\/assets\/css\/_display-table.css",
-      "fileType" : 4,
-      "debugStyle" : 0
+      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/underscore-amd\/test\/vendor\/jslitmus.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/assets\/js\/jslitmus.min.js",
+      "fileType" : 64
     },
     "\/production\/assets\/bower_components\/backbone-amd\/docs\/backbone.html" : {
       "ignoreWasSetByUser" : 0,
@@ -1611,15 +1623,26 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/production\/assets\/bower_components\/backbone-amd\/test\/view.js" : {
+    "\/production\/assets\/bower_components\/backbone-amd\/test\/model.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/backbone-amd\/test\/model.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/assets\/js\/model.min.js",
+      "fileType" : 64
+    },
+    "\/production\/assets\/bower_components\/jQuery\/src\/core\/ready.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/backbone-amd\/test\/view.js",
+      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/jQuery\/src\/core\/ready.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/assets\/js\/view.min.js",
+      "outputAbbreviatedPath" : "\/production\/assets\/js\/ready.min.js",
       "fileType" : 64
     },
     "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/khan-academy.png" : {
@@ -1633,26 +1656,15 @@
       "initialSize" : 142481,
       "fileType" : 8192
     },
-    "\/production\/assets\/bower_components\/underscore-amd\/test\/vendor\/jquery.js" : {
+    "\/production\/assets\/bower_components\/backbone-amd\/test\/view.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/underscore-amd\/test\/vendor\/jquery.js",
+      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/backbone-amd\/test\/view.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/assets\/js\/jquery.min.js",
-      "fileType" : 64
-    },
-    "\/production\/assets\/bower_components\/underscore-amd\/test\/vendor\/jslitmus.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/underscore-amd\/test\/vendor\/jslitmus.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/assets\/js\/jslitmus.min.js",
+      "outputAbbreviatedPath" : "\/production\/assets\/js\/view.min.js",
       "fileType" : 64
     },
     "\/production\/assets\/bower_components\/jQuery\/src\/ajax\/parseXML.js" : {
@@ -1677,27 +1689,28 @@
       "initialSize" : 230189,
       "fileType" : 8192
     },
-    "\/production\/assets\/bower_components\/jQuery\/src\/core\/ready.js" : {
+    "\/production\/assets\/bower_components\/underscore-amd\/test\/vendor\/jquery.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/jQuery\/src\/core\/ready.js",
+      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/underscore-amd\/test\/vendor\/jquery.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/assets\/js\/ready.min.js",
+      "outputAbbreviatedPath" : "\/production\/assets\/js\/jquery.min.js",
       "fileType" : 64
     },
-    "\/production\/assets\/bower_components\/backbone-amd\/test\/model.js" : {
+    "\/development\/assets\/scss\/utilities\/_display-table.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/backbone-amd\/test\/model.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/assets\/js\/model.min.js",
-      "fileType" : 64
+      "inputAbbreviatedPath" : "\/development\/assets\/scss\/utilities\/_display-table.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/production\/assets\/css\/_display-table.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
     "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/irccloud.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1710,17 +1723,6 @@
       "initialSize" : 164371,
       "fileType" : 8192
     },
-    "\/production\/assets\/bower_components\/jQuery\/src\/event\/alias.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/jQuery\/src\/event\/alias.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/assets\/js\/alias.min.js",
-      "fileType" : 64
-    },
     "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/soundcloud.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1731,6 +1733,17 @@
       "outputAbbreviatedPath" : "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/soundcloud.png",
       "initialSize" : 131782,
       "fileType" : 8192
+    },
+    "\/production\/assets\/bower_components\/jQuery\/src\/event\/alias.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/jQuery\/src\/event\/alias.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/assets\/js\/alias.min.js",
+      "fileType" : 64
     },
     "\/development\/assets\/scss\/elements\/_base.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -1775,14 +1788,16 @@
       "outputAbbreviatedPath" : "\/production\/assets\/js\/support.min.js",
       "fileType" : 64
     },
-    "\/production\/assets\/bower_components\/underscore-amd\/test\/vendor\/qunit.css" : {
+    "\/production\/assets\/bower_components\/jQuery\/src\/deferred.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/underscore-amd\/test\/vendor\/qunit.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
+      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/jQuery\/src\/deferred.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/assets\/js\/deferred.min.js",
+      "fileType" : 64
     },
     "\/production\/assets\/bower_components\/backbone-amd\/test\/vendor\/runner.js" : {
       "ignoreWasSetByUser" : 0,
@@ -1795,27 +1810,14 @@
       "outputAbbreviatedPath" : "\/production\/assets\/js\/runner.min.js",
       "fileType" : 64
     },
-    "\/production\/assets\/bower_components\/jQuery\/src\/deferred.js" : {
+    "\/production\/assets\/bower_components\/underscore-amd\/test\/vendor\/qunit.css" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/jQuery\/src\/deferred.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/assets\/js\/deferred.min.js",
-      "fileType" : 64
-    },
-    "\/production\/assets\/js\/modernizr.custom.min.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/production\/assets\/js\/modernizr.custom.min.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/assets\/js\/modernizr.custom.min.min.js",
-      "fileType" : 64
+      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/underscore-amd\/test\/vendor\/qunit.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/production\/assets\/bower_components\/jquery-migrate\/jquery-migrate.min.js" : {
       "ignoreWasSetByUser" : 0,
@@ -1894,16 +1896,16 @@
       "outputAbbreviatedPath" : "\/production\/assets\/js\/rquery.min.js",
       "fileType" : 64
     },
-    "\/production\/assets\/bower_components\/jQuery\/src\/ajax\/jsonp.js" : {
+    "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/gawker.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/jQuery\/src\/ajax\/jsonp.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/assets\/js\/jsonp.min.js",
-      "fileType" : 64
+      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/gawker.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/gawker.png",
+      "initialSize" : 1034295,
+      "fileType" : 8192
     },
     "\/production\/assets\/bower_components\/jQuery\/src\/var\/slice.js" : {
       "ignoreWasSetByUser" : 0,
@@ -1916,16 +1918,16 @@
       "outputAbbreviatedPath" : "\/production\/assets\/js\/slice.min.js",
       "fileType" : 64
     },
-    "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/gawker.png" : {
+    "\/production\/assets\/bower_components\/jQuery\/src\/ajax\/jsonp.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/gawker.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/gawker.png",
-      "initialSize" : 1034295,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/jQuery\/src\/ajax\/jsonp.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/assets\/js\/jsonp.min.js",
+      "fileType" : 64
     },
     "\/production\/assets\/bower_components\/jQuery\/src\/css\/addGetHookIf.js" : {
       "ignoreWasSetByUser" : 0,
@@ -2043,17 +2045,6 @@
       "outputAbbreviatedPath" : "\/production\/assets\/js\/nonce.min.js",
       "fileType" : 64
     },
-    "\/development\/assets\/js\/main.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/development\/assets\/js\/main.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/assets\/js\/main.min.js",
-      "fileType" : 64
-    },
     "\/production\/assets\/js\/main.min.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -2063,6 +2054,17 @@
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/assets\/js\/main.min.min.js",
+      "fileType" : 64
+    },
+    "\/development\/assets\/js\/main.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/development\/assets\/js\/main.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/assets\/js\/main.min.js",
       "fileType" : 64
     },
     "\/development\/assets\/scss\/elements\/_buttons.scss" : {
@@ -2163,17 +2165,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/production\/assets\/js\/app.min.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/production\/assets\/js\/app.min.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/assets\/js\/app.min.min.js",
-      "fileType" : 64
-    },
     "\/development\/assets\/scss\/elements\/_form.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -2186,16 +2177,16 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/background.png" : {
+    "\/production\/assets\/js\/app.min.js" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/background.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/background.png",
-      "initialSize" : 2108,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/production\/assets\/js\/app.min.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/assets\/js\/app.min.min.js",
+      "fileType" : 64
     },
     "\/production\/assets\/bower_components\/jQuery\/src\/outro.js" : {
       "ignoreWasSetByUser" : 0,
@@ -2208,6 +2199,17 @@
       "outputAbbreviatedPath" : "\/production\/assets\/js\/outro.min.js",
       "fileType" : 64
     },
+    "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/basecamp-calendar.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/basecamp-calendar.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/basecamp-calendar.jpg",
+      "initialSize" : 55870,
+      "fileType" : 4096
+    },
     "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/foursquare.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2219,16 +2221,16 @@
       "initialSize" : 230958,
       "fileType" : 8192
     },
-    "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/basecamp-calendar.jpg" : {
+    "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/background.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/basecamp-calendar.jpg",
+      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/background.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/basecamp-calendar.jpg",
-      "initialSize" : 55870,
-      "fileType" : 4096
+      "outputAbbreviatedPath" : "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/background.png",
+      "initialSize" : 2108,
+      "fileType" : 8192
     },
     "\/production\/assets\/bower_components\/jQuery\/src\/var\/hasOwn.js" : {
       "ignoreWasSetByUser" : 0,
@@ -2252,17 +2254,16 @@
       "outputAbbreviatedPath" : "\/production\/assets\/js\/rnotwhite.min.js",
       "fileType" : 64
     },
-    "\/development\/assets\/scss\/utilities\/_retina-sprite.scss" : {
+    "\/production\/assets\/bower_components\/jQuery\/src\/manipulation\/_evalUrl.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/development\/assets\/scss\/utilities\/_retina-sprite.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/production\/assets\/css\/_retina-sprite.css",
-      "fileType" : 4,
-      "debugStyle" : 0
+      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/jQuery\/src\/manipulation\/_evalUrl.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/assets\/js\/_evalUrl.min.js",
+      "fileType" : 64
     },
     "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/walmart-mobile.png" : {
       "ignoreWasSetByUser" : 0,
@@ -2275,16 +2276,17 @@
       "initialSize" : 139249,
       "fileType" : 8192
     },
-    "\/production\/assets\/bower_components\/jQuery\/src\/var\/strundefined.js" : {
+    "\/development\/assets\/scss\/utilities\/_retina-sprite.scss" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/jQuery\/src\/var\/strundefined.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/assets\/js\/strundefined.min.js",
-      "fileType" : 64
+      "inputAbbreviatedPath" : "\/development\/assets\/scss\/utilities\/_retina-sprite.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/production\/assets\/css\/_retina-sprite.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
     "\/production\/assets\/bower_components\/jQuery\/src\/dimensions.js" : {
       "ignoreWasSetByUser" : 0,
@@ -2297,15 +2299,15 @@
       "outputAbbreviatedPath" : "\/production\/assets\/js\/dimensions.min.js",
       "fileType" : 64
     },
-    "\/production\/assets\/bower_components\/jQuery\/src\/manipulation\/_evalUrl.js" : {
+    "\/production\/assets\/bower_components\/jQuery\/src\/var\/strundefined.js" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/jQuery\/src\/manipulation\/_evalUrl.js",
+      "inputAbbreviatedPath" : "\/production\/assets\/bower_components\/jQuery\/src\/var\/strundefined.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/assets\/js\/_evalUrl.min.js",
+      "outputAbbreviatedPath" : "\/production\/assets\/js\/strundefined.min.js",
       "fileType" : 64
     },
     "\/production\/assets\/bower_components\/backbone-amd\/docs\/images\/easel.png" : {
@@ -2607,7 +2609,7 @@
   },
   "projectAttributes" : {
     "bourbonEnabled" : 0,
-    "displayValue" : "SimpleTemplateLayouts",
+    "displayValue" : "layout",
     "displayValueWasSetByUser" : 0,
     "compassEnabled" : 1
   }
