@@ -1,6 +1,6 @@
 {
   "name": "Layout",
-  "version": "0.0.2",
+  "version": "0.0.10",
   "homepage": "https://github.com/ctekjlo/Layout",
   "authors": [
     "Afonin Artur <ctekjlo@gmail.com>"
@@ -17,11 +17,15 @@
     "tests"
   ],
   "dependencies": {
-    "normalize-css": "~2.1.3",
-    "requirejs": "~2.1.11",
-    "jQuery": "~2.1.0",
-    "jquery-migrate": "~1.2.1",
+    "modernizr": "*",
+    "normalize-css": "*",
+    "requirejs": "*",
+    "jQuery": "*",
+    "jquery-migrate": "*",
     "underscore-amd": "*",
-    "backbone-amd": "*"
+    "backbone-amd": "*",
+
+    "jquery-easing": "*",
+    "ionicons": "*"
   }
 }

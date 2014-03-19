@@ -1,12 +1,12 @@
 define([
     'backbone'
-  , 'jquery-migrate'
+  , 'plugins'
 ], function () {
 
   return Backbone.Model.extend({
 
       appName: 'Simple Template Layout App'
-    , appVersion: '0.0.1'
+    , appVersion: '0.0.10'
 
     , debug: true
 
